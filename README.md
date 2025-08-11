@@ -1,1 +1,1 @@
-# OmniMart-BI-Project
+# OmniMart_BI_Project
