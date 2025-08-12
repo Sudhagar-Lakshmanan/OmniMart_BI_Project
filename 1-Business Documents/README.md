@@ -6,14 +6,14 @@ This folder contains the foundational documents that define the scope, objective
 
 ## Business Request Email
 
-**File:** `1. Business Documents/2_Business Requirements Document (BRD).docx`
+**File:** [Sample Business Request Email](1-Business Documents/i. Sample Business Request Email.docx)  
 Outlines the initial request from stakeholders, including business goals, expected deliverables, and timeline expectations.
 
 
 
 ## Business Requirements Document (BRD)
 
-**File:** `1. Business Documents/2_Business Requirements Document (BRD).docx`
+**File:** [Business Requirements Document (BRD)](1-Business Documents/ii. Business Requirements Document (BRD).docx)
 A comprehensive document detailing:
 
 - Project scope and success criteria  
