@@ -18,7 +18,7 @@ CREATE TABLE customers (
     city VARCHAR(100),
     state VARCHAR(100),
     zip_code VARCHAR(20),
-    registration_date DATE,   -- date format changed
+    registration_date DATE,  
     preferred_channel VARCHAR(50)
 );
 
