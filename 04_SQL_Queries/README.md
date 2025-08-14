@@ -49,3 +49,17 @@ Each CSV directly corresponds to a `.sql` file in `ii_Analysis_queries/`.
 2. Execute the `.sql` files in `ii_Analysis_queries` as needed.  
 3. Review outputs in `iii_Output_CSV` or use them for visualization.
 
+
+
+## Notes
+
+- All queries are written in **MySQL 8.0** and follow enterprise-grade formatting and documentation standards.
+- Setup scripts are designed for local ingestion using `LOAD DATA INFILE`.
+- ERD diagram provides a visual reference for table relationships and foreign key dependencies.
+
+
+
+## 🔗 Related Folders
+
+- [`01_Business_Documents`](../01_Business_Documents/README.md)  
+
