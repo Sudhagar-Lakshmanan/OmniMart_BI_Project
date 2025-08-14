@@ -6,7 +6,7 @@ Files are organized to follow a logical execution flow: **Setup ➡️ Analysis 
 
 
 
-### `i_Setup_scripts`
+### i_Setup_scripts
 Foundational scripts for database setup, table creation, data validation, and schema visualization.
 
 | File Name                        | Description                                                  |
@@ -17,7 +17,7 @@ Foundational scripts for database setup, table creation, data validation, and sc
 
 
 
-### `ii_Analysis_queries/`
+### ii_Analysis_queries
 Modular SQL queries grouped by dashboard theme. Each file includes business goals, inputs, and outputs.
 
 | File Name              | Description                                                  |
@@ -30,7 +30,7 @@ Modular SQL queries grouped by dashboard theme. Each file includes business goal
 
 
 
-### `iii_Output_CSV/`
+### iii_Output_CSV
 Exported results from analysis queries for use in dashboards, presentations, or stakeholder reviews.  
 Each CSV directly corresponds to a `.sql` file in `ii_Analysis_queries/`.
 
