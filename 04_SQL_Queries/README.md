@@ -1,4 +1,4 @@
-## SQL Queries Folder Overview
+# SQL Queries Folder Overview
 
 This directory contains SQL scripts, schema assets, and output datasets for the **"Omnichannel Retail Behaviour and Performance Analytics Dashboard"** project.  
 
@@ -6,7 +6,7 @@ Files are organized to follow a logical execution flow: **Setup ➡️ Analysis 
 
 
 
-### i_Setup_Scripts
+## i_Setup_Scripts
 Foundational scripts for database setup, table creation, data validation, and schema visualization.
 
 | File Name                                    | Description                                                  |
@@ -17,7 +17,7 @@ Foundational scripts for database setup, table creation, data validation, and sc
 
 
 
-### ii_Analysis_Queries
+## ii_Analysis_Queries
 Modular SQL queries grouped by dashboard theme. Each file includes business goals, inputs, and outputs.
 
 | File Name                         | Description                                                  |
@@ -30,7 +30,7 @@ Modular SQL queries grouped by dashboard theme. Each file includes business goal
 
 
 
-### iii_Output
+## iii_Output
 Exported results from analysis queries for use in dashboards, presentations, or stakeholder reviews.  
 Each Excel workbook corresponds to one `.sql` file and contains **multiple sheets (Q1, Q2, …)** for individual business questions.
 
@@ -44,14 +44,14 @@ Each Excel workbook corresponds to one `.sql` file and contains **multiple sheet
 
 
 
-**Execution Order:**  
+### **Execution Order:**  
 1. Run scripts in [i_Setup_Scripts](04_SQL_Queries/i_Setup_Scripts) (in numeric order).  
 2. Execute the `.sql` files in [ii_Analysis_Queries](04_SQL_Queries/ii_Analysis_Queries) as needed.  
 3. Review outputs in [iii_Output](04_SQL_Queries/iii_Output) (Excel workbooks with Q-by-Q results).  
 
 
 
-## Notes
+### Notes
 
 - All queries are written in **MySQL 8.0** and follow enterprise-grade formatting and documentation standards.  
 - Setup scripts are designed for local ingestion using `LOAD DATA INFILE`.  
@@ -60,6 +60,6 @@ Each Excel workbook corresponds to one `.sql` file and contains **multiple sheet
 
 
 
-## 🔗 Related Folders
+### 🔗 Related Folders
 
 - [`01_Business_Documents`](../01_Business_Documents/README.md)  
