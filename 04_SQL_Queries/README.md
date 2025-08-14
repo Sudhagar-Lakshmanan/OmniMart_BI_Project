@@ -12,8 +12,8 @@ Foundational scripts for database setup, table creation, data validation, and sc
 | File Name                                    | Description                                                  |
 |----------------------------------------------|--------------------------------------------------------------|
 | [1_Create_Table_and_Insert_Data.sql](i_Setup_Scripts/1_Create_Table_and_Insert_Data.sql)           | Creates the schema and loads data into core tables           |
-| `2_Data_Cleaning_&_Validation.sql`           | Performs data quality checks and transformation logic        |
-| `3_ERD_Retail_Customer_Insights.png`         | Entity Relationship Diagram for schema visualization         |
+| [2_Data_Cleaning_and_Validation.sql](i_Setup_Scripts/2_Data_Cleaning_and_Validation.sql)        | Performs data quality checks and transformation logic        |
+| [3_ERD_Retail_Customer_Insights.png](i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)         | Entity Relationship Diagram for schema visualization         |
 
 
 
@@ -22,11 +22,11 @@ Modular SQL queries grouped by dashboard theme. Each file includes business goal
 
 | File Name                         | Description                                                  |
 |-----------------------------------|--------------------------------------------------------------|
-| `1_Revenue_Section.sql`           | Revenue metrics, YoY growth, and category breakdowns         |
-| `2_Products_Section.sql`          | Product performance, top sellers, and inventory insights     |
-| `3_Customers_Section.sql`         | Segmentation, behavior patterns, and retention metrics       |
-| `4_Campaigns_Section.sql`         | Campaign ROI, engagement, and conversion analysis            |
-| `5_Support_Tickets_Section.sql`   | Ticket volume, resolution time, and satisfaction scores      |
+| [1_Revenue_Section.sql](ii_Analysis_Queries/1_Revenue_Section.sql)          | Revenue metrics, YoY growth, and category breakdowns         |
+| [2_Products_Section.sql](ii_Analysis_Queries/2_Products_Section.sql)         | Product performance, top sellers, and ratings     |
+| [3_Customers_Section.sql](ii_Analysis_Queries/3_Customers_Section.sql)         | Segmentation, behavior patterns, and retention metrics       |
+| [4_Campaigns_Section.sql](ii_Analysis_Queries/4_Campaigns_Section.sql)         | Campaign ROI, engagement, and conversion analysis            |
+| [5_Support_Tickets_Section.sql](ii_Analysis_Queries/5_Support_Tickets_Section.sql)   | Ticket volume, resolution time, and satisfaction scores      |
 
 
 
@@ -36,18 +36,18 @@ Each Excel workbook corresponds to one `.sql` file and contains **multiple sheet
 
 | File Name                        | Description                                                  |
 |----------------------------------|--------------------------------------------------------------|
-| `1_Revenue_Output.xlsx`          | Output from `1_Revenue_Section.sql`                          |
-| `2_Products_Output.xlsx`         | Output from `2_Products_Section.sql`                         |
-| `3_Customers_Output.xlsx`        | Output from `3_Customers_Section.sql`                        |
-| `4_Campaigns_Output.xlsx`        | Output from `4_Campaigns_Section.sql`                        |
-| `5_SupportTickets_Output.xlsx`   | Output from `5_Support_Tickets_Section.sql`                  |
+| [1_Revenue_Output.xlsx](iii_Output/1_Revenue_Output.xlsx)          | Output from `1_Revenue_Section.sql`                          |
+| [2_Products_Output.xlsx](iii_Output/2_Products_Output.xlsx)         | Output from `2_Products_Section.sql`                         |
+| [3_Customers_Output.xlsx](iii_Output/3_Customers_Output.xlsx)        | Output from `3_Customers_Section.sql`                        |
+| [4_Campaigns_Output.xlsx](iii_Output/4_Campaigns_Output.xlsx)        | Output from `4_Campaigns_Section.sql`                        |
+| [5_SupportTickets_Output.xlsx](iii_Output/5_SupportTickets_Output.xlsx)   | Output from `5_Support_Tickets_Section.sql`                  |
 
 
 
 **Execution Order:**  
-1. Run scripts in `i_Setup_Scripts` (in numeric order).  
-2. Execute the `.sql` files in `ii_Analysis_Queries` as needed.  
-3. Review outputs in `iii_Output` (Excel workbooks with Q-by-Q results).  
+1. Run scripts in [i_Setup_Scripts](04_SQL_Queries/i_Setup_Scripts) (in numeric order).  
+2. Execute the `.sql` files in [ii_Analysis_Queries](04_SQL_Queries/ii_Analysis_Queries) as needed.  
+3. Review outputs in [iii_Output](04_SQL_Queries/iii_Output) (Excel workbooks with Q-by-Q results).  
 
 
 
