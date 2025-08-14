@@ -45,7 +45,7 @@ Each CSV directly corresponds to a `.sql` file in `ii_Analysis_queries/`.
 
 
 **Execution Order:**  
-1. Run scripts in `i_Setup_scripts/` (in numeric order).  
-2. Execute the `.sql` files in `ii_Analysis_queries/` as needed.  
-3. Review outputs in `iii_Output_CSV/` or use them for visualization.
+1. Run scripts in `i_Setup_scripts` (in numeric order).  
+2. Execute the `.sql` files in `ii_Analysis_queries` as needed.  
+3. Review outputs in `iii_Output_CSV` or use them for visualization.
 
