@@ -45,9 +45,9 @@ Each Excel workbook corresponds to one `.sql` file and contains **multiple sheet
 
 
 ### **Execution Order:**  
-1. Run scripts in [i_Setup_Scripts](04_SQL_Queries/i_Setup_Scripts) (in numeric order).  
-2. Execute the `.sql` files in [ii_Analysis_Queries](04_SQL_Queries/ii_Analysis_Queries) as needed.  
-3. Review outputs in [iii_Output](04_SQL_Queries/iii_Output) (Excel workbooks with Q-by-Q results).  
+1. Run scripts in [i_Setup_Scripts](i_Setup_Scripts) (in numeric order).  
+2. Execute the `.sql` files in [ii_Analysis_Queries](ii_Analysis_Queries) as needed.  
+3. Review outputs in [iii_Output](iii_Output) (Excel workbooks with Q-by-Q results).  
 
 
 
