@@ -11,7 +11,7 @@ Foundational scripts for database setup, table creation, data validation, and sc
 
 | File Name                                    | Description                                                  |
 |----------------------------------------------|--------------------------------------------------------------|
-| [`1_Create_Table_and_Insert_Data.sql`](i_Setup_Scripts/1_Create_Table_and_Insert_Data.sql)           | Creates the schema and loads data into core tables           |
+| [1_Create_Table_and_Insert_Data.sql](i_Setup_Scripts/1_Create_Table_and_Insert_Data.sql)           | Creates the schema and loads data into core tables           |
 | `2_Data_Cleaning_&_Validation.sql`           | Performs data quality checks and transformation logic        |
 | `3_ERD_Retail_Customer_Insights.png`         | Entity Relationship Diagram for schema visualization         |
 
