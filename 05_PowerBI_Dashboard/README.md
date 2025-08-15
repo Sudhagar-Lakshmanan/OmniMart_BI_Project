@@ -17,7 +17,7 @@ This folder contains the **core Power BI dashboard file**, which is fully intera
 
 | File | Description |
 |------|-------------|
-| [`Omnichannel_Retail_Behavior_and_Performance_Analytics_Dashboard.pbix`](i_PBIX_File/Omnichannel_Retail_Behavior_and_Performance_Analytics_Dashboard.pbix) | Main Power BI dashboard file with all interactive pages |
+| [Omnichannel_Retail_Behavior_and_Performance_Analytics_Dashboard.pbix](i_PBIX_File/Omnichannel_Retail_Behavior_and_Performance_Analytics_Dashboard.pbix) | Main Power BI dashboard file with all interactive pages |
 
 ---
 
@@ -26,7 +26,7 @@ This folder contains a **static PDF export** of the Power BI dashboard. It is us
 
 | File | Description |
 |------|-------------|
-| [`OmniMart_Pvt_Ltd_Dashboard_Report.pdf`](ii_PDF_File/OmniMart_Pvt_Ltd_Dashboard_Report.pdf) | PDF version of the dashboard with all report, drillthrough, and tooltip pages |
+| [OmniMart_Pvt_Ltd_Dashboard_Report.pdf](ii_PDF_File/OmniMart_Pvt_Ltd_Dashboard_Report.pdf) | PDF version of the dashboard with all report, drillthrough, and tooltip pages |
 
 ---
 
@@ -35,13 +35,13 @@ This folder contains **animated previews (GIFs)** of each report page in the das
 
 | File | Description |
 |------|-------------|
-| [`1_Summary_Page.gif`](iii_GIF_File/1_Summary_Page.gif) | Animated preview of the Summary page |
-| [`2_Overview_Page.gif`](iii_GIF_File/2_Overview_Page.gif) | Animated preview of the Overview page |
-| [`3_Revenue_Page.gif`](iii_GIF_File/3_Revenue_Page.gif) | Animated preview of the Revenue insights page |
-| [`4_Products_Page.gif`](iii_GIF_File/4_Products_Page.gif) | Animated preview of the Products insights page |
-| [`5_Customers_Page.gif`](iii_GIF_File/5_Customers_Page.gif) | Animated preview of the Customers insights page |
-| [`6_Campaigns_Page.gif`](iii_GIF_File/6_Campaigns_Page.gif) | Animated preview of the Campaigns insights page |
-| [`7_Support_Tickets_Page.gif`](iii_GIF_File/7_Support_Tickets_Page.gif) | Animated preview of the Support Tickets insights page |
+| [1_Summary_Page.gif](iii_GIF_File/1_Summary_Page.gif) | Animated preview of the Summary page |
+| [2_Overview_Page.gif](iii_GIF_File/2_Overview_Page.gif) | Animated preview of the Overview page |
+| [3_Revenue_Page.gif](iii_GIF_File/3_Revenue_Page.gif) | Animated preview of the Revenue insights page |
+| [4_Products_Page.gif](iii_GIF_File/4_Products_Page.gif) | Animated preview of the Products insights page |
+| [5_Customers_Page.gif](iii_GIF_File/5_Customers_Page.gif) | Animated preview of the Customers insights page |
+| [6_Campaigns_Page.gif](iii_GIF_File/6_Campaigns_Page.gif) | Animated preview of the Campaigns insights page |
+| [7_Support_Tickets_Page.gif](iii_GIF_File/7_Support_Tickets_Page.gif) | Animated preview of the Support Tickets insights page |
 
 ---
 
@@ -50,7 +50,7 @@ This folder contains the **Power BI data model diagram**, showing how fact and d
 
 | File | Description |
 |------|-------------|
-| [`PowerBI_Data_Model.png`](iv_Data_Model/PowerBI_Data_Model.png) | Visual representation of relationships between tables used in the dashboard |
+| [PowerBI_Data_Model.png](iv_Data_Model/PowerBI_Data_Model.png) | Visual representation of relationships between tables used in the dashboard |
 
 ---
 
