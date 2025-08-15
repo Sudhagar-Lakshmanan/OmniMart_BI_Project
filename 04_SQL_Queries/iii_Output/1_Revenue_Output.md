@@ -1,21 +1,21 @@
 # SQL Analysis Results
 
----
+
 
 ## Q1 : Revenue Summary Metrics  
 **Purpose:** Track total revenue before and after discounts to reveal the true earning impact.
 
 | gross_revenue | net_revenue | discount_impact |
-|---------------|-------------|-----------------|
+||-|--|
 | 27791844.84   | 27555304.84 | 240770          |
 
----
+
 
 ## Q2 : Year-over-Year Revenue Growth  
 **Purpose:** Track monthly Revenue trends to assess business momentum and seasonal patterns.
 
 | rev_year | rev_month | net_revenue | prev_rev | yoy_growth |
-|----------|-----------|-------------|----------|------------|
+|-|--|-|-||
 | 2025 | 2 | 572852.51 | 763212.57 | -24.94 |
 | 2025 | 1 | 689471.79 | 559757.72 | 23.17 |
 | 2024 | 12 | 1308525.48 | 977017.74 | 33.93 |
@@ -77,13 +77,13 @@
 | 2020 | 4 | 19253.72 | NULL | NULL |
 | 2020 | 3 | 5555.32 | NULL | NULL |
 
----
+
 
 ## Q3 : Revenue by Product Categories  
 **Purpose:** Identify product categories driving the highest Revenue to prioritize inventory and marketing.
 
 | product_category         | net_revenue |
-|--------------------------|-------------|
+|--|-|
 | Furniture                | 6134000.89  |
 | Smartphones              | 4941033.38  |
 | Laptops                  | 3948494.00  |
@@ -101,13 +101,13 @@
 | Bedding                  | 141803.01   |
 | Computer Accessories     | 72131.31    |
 
----
+
 
 ## Q4 : Top 10 Revenue-Generating Products  
 **Purpose:** Spotlight the highest-Revenue products driving commercial performance.
 
 | product_name | net_revenue |
-|--------------|-------------|
+|--|-|
 | Bed Frame    | 1371878.36  |
 | Office Desk  | 1224718.37  |
 | Sofa         | 1217507.58  |
@@ -119,13 +119,13 @@
 | Google Pixel 6 | 966569.77 |
 | HP Spectre   | 887793.39   |
 
----
+
 
 ## Q5 : Revenue by Payment Method  
 **Purpose:** Analyze how Payment choices influence Revenue and order behavior.
 
 | payment_method | total_transactions | net_revenue | avg_order_value |
-|----------------|--------------------|-------------|-----------------|
+|-|--|-|--|
 | Credit Card    | 10907              | 9384482.20  | 903.40 |
 | Debit Card     | 7968               | 6947690.70  | 913.72 |
 | PayPal         | 4798               | 4124542.81  | 903.67 |
@@ -135,13 +135,13 @@
 | Google Pay     | 1633               | 1236664.93  | 795.40 |
 | Unknown        | 660                | 500983.25   | 798.61 |
 
----
+
 
 ## Q6 : State-Wise Revenue Performance  
 **Purpose:** Compare total Revenue and average order value across regional markets.
 
 | state         | total_transactions | net_revenue | avg_order_value |
-|---------------|--------------------|-------------|-----------------|
+||--|-|--|
 | Online        | 16108              | 13978407.46 | 910.50 |
 | California    | 3049               | 2660263.12  | 914.61 |
 | Texas         | 1630               | 1393108.41  | 895.16 |
