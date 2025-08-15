@@ -72,7 +72,45 @@
 | Adults (26-40)          | 582,330.65            | 9,886.13  |
 | Technology Enthusiasts  | 540,387.98            | 8,417.69  |
 | Young Adults (18-25)    | 333,060.11            | 8,308.26  |
-| Online Shoppers         | 450,
+| Online Shoppers         | 450,271.95            | 7,953.71  |
+| In-Store Shoppers       | 750,345.41            | 5,700.67  |
+| Kitchen Enthusiasts     | 640,827.30            | 4,005.00  |
+| Loyal Customers         | 450,870.04            | 3,467.96  |
+
+---
+
+## Q19 : Session Duration by Channel  
+**Purpose:** Discover which marketing channels retain user attention the longest.  
+
+| channel        | avg_session_duration |
+|----------------|-----------------------|
+| in-store kiosk | 69.19                 |
+| mobile app     | 61.74                 |
+| web            | 91.08                 |
+| Unknown        | 82.49                 |
+
+---
+
+## Q20 : User Interaction Volume by Channel  
+**Purpose:** Understand total user engagement volume by channel.  
+
+| channel        | interaction_count |
+|----------------|-------------------|
+| in-store kiosk | 15,283            |
+| mobile app     | 26,991            |
+| web            | 55,724            |
+| Unknown        | 2,002             |
+
+---
+
+## Q21 : Purchase & Add-to-Cart Actions by Channel  
+**Purpose:** Identify which channels drive the most purchases and cart additions.  
+
+| channel        | purchase_actions |
+|----------------|------------------|
+| web            | 13,668           |
+| Unknown        | 381              |
+| mobile app     | 6,475            |
 
 ---
 
