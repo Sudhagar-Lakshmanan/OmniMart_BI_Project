@@ -48,16 +48,16 @@ Exported results from analysis queries for use in dashboards, presentations, or 
 | [4_Campaigns_Output.md](iii_Output/4_Campaigns_Output.md)        | Output from `4_Campaigns_Section.sql`                        |
 | [5_Support_Tickets_Output.md](iii_Output/5_Support_Tickets_Output.md)   | Output from `5_Support_Tickets_Section.sql`                  |
 
----
 
-### Execution Order:
+
+## Execution Order:
 1. Run scripts in [i_Setup_Scripts](i_Setup_Scripts) (in numeric order).  
 2. Execute the `.sql` files in [ii_Analysis_Queries](ii_Analysis_Queries) as needed.  
 3. Review outputs in [iii_Output](iii_Output) (Markdown for GitHub browsing, Excel for detailed handover).  
 
 
 
-### Notes:
+## Notes:
 
 - All queries are written in **MySQL 8.0** and follow enterprise-grade formatting and documentation standards.  
 - Setup scripts are designed for local ingestion using `LOAD DATA INFILE`.  
@@ -66,8 +66,8 @@ Exported results from analysis queries for use in dashboards, presentations, or 
 
 
 
-### Related Folders:
+## Related Folders:
 
 - [`01_Business_Documents`](../01_Business_Documents/.README.md)  
 
----
+
