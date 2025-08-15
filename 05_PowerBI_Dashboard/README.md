@@ -57,5 +57,5 @@ This folder contains the **Power BI data model diagram**, showing how fact and d
 ## Notes  
 - The **PBIX file** includes **all pages (including drillthrough & tooltips)** since this is a portfolio project.  
 - The **PDF** is kept as a static archive version for quick review.  
-- GIFs are intended to provide **visual previews** for recruiters or stakeholders without requiring Power BI Desktop.  
+- GIFs are intended to provide **visual previews**.  
 
