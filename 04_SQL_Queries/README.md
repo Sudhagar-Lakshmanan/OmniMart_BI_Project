@@ -32,7 +32,13 @@ Modular SQL queries grouped by dashboard theme. Each file includes business goal
 
 ## iii_Output
 Exported results from analysis queries for use in dashboards, presentations, or stakeholder reviews.  
-Each Excel workbook corresponds to one `.sql` file and contains **multiple sheets (Q1, Q2, …)** for individual business questions.
+
+### Excel Outputs
+Located in the [Excel](iii_Output/Excel) subfolder.  
+Each workbook corresponds to a section and contains **multiple sheets (Q1, Q2, …)** for individual business questions.
+
+### Markdown Outputs
+Each `.md` file corresponds to one `.sql` file and contains Q-by-Q results in lightweight format.
 
 | File Name                        | Description                                                  |
 |----------------------------------|--------------------------------------------------------------|
@@ -47,7 +53,7 @@ Each Excel workbook corresponds to one `.sql` file and contains **multiple sheet
 ### Execution Order:
 1. Run scripts in [i_Setup_Scripts](i_Setup_Scripts) (in numeric order).  
 2. Execute the `.sql` files in [ii_Analysis_Queries](ii_Analysis_Queries) as needed.  
-3. Review outputs in [iii_Output](iii_Output) (Excel folder contains workbooks with Q-by-Q results).  
+3. Review outputs in [iii_Output](iii_Output) (Markdown for GitHub browsing, Excel for detailed handover).  
 
 
 
