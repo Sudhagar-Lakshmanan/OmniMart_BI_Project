@@ -1,6 +1,6 @@
 # Section 3 - Customer Segmentation & Retention (SQL Output)
 
-
+---
 
 ## Q11 : Repeat Customers Count by Preferred Channel  
 **Purpose:** See which communication channels build stronger customer loyalty.  
