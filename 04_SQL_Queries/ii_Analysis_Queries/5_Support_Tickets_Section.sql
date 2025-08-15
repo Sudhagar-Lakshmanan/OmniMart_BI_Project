@@ -47,7 +47,7 @@ FROM
 GROUP BY 
     ticket_year, ticket_month
 ORDER BY 
-    ticket_year, ticket_month
+    ticket_year DESC, ticket_month DESC
 ;
 
 
