@@ -33,11 +33,11 @@ Modular SQL queries grouped by dashboard theme. Each file includes business goal
 ## iii_Output
 Exported results from analysis queries for use in dashboards, presentations, or stakeholder reviews.  
 
-### Excel Outputs
+#### Excel Outputs
 - Located in the [Excel](iii_Output/Excel) subfolder.  
 - Each workbook corresponds to a section and contains **multiple sheets (Q1, Q2, …)** for individual business questions.
 
-### Markdown Outputs
+#### Markdown Outputs
 - Each `.md` file corresponds to one `.sql` file and contains Q-by-Q results in lightweight format.
 
 | File Name                        | Description                                                  |
