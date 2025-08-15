@@ -6,7 +6,7 @@
 **Purpose:** Track total revenue before and after discounts to reveal the true earning impact.
 
 | gross_revenue | net_revenue | discount_impact |
-||-|--|
+|---------------|-------------|-----------------|
 | 27791844.84   | 27555304.84 | 240770          |
 
 
@@ -15,7 +15,7 @@
 **Purpose:** Track monthly Revenue trends to assess business momentum and seasonal patterns.
 
 | rev_year | rev_month | net_revenue | prev_rev | yoy_growth |
-|-|--|-|-||
+|----------|-----------|-------------|----------|------------|
 | 2025 | 2 | 572852.51 | 763212.57 | -24.94 |
 | 2025 | 1 | 689471.79 | 559757.72 | 23.17 |
 | 2024 | 12 | 1308525.48 | 977017.74 | 33.93 |
@@ -83,7 +83,7 @@
 **Purpose:** Identify product categories driving the highest Revenue to prioritize inventory and marketing.
 
 | product_category         | net_revenue |
-|--|-|
+|--------------------------|-------------|
 | Furniture                | 6134000.89  |
 | Smartphones              | 4941033.38  |
 | Laptops                  | 3948494.00  |
@@ -107,7 +107,7 @@
 **Purpose:** Spotlight the highest-Revenue products driving commercial performance.
 
 | product_name | net_revenue |
-|--|-|
+|--------------|-------------|
 | Bed Frame    | 1371878.36  |
 | Office Desk  | 1224718.37  |
 | Sofa         | 1217507.58  |
@@ -125,7 +125,7 @@
 **Purpose:** Analyze how Payment choices influence Revenue and order behavior.
 
 | payment_method | total_transactions | net_revenue | avg_order_value |
-|-|--|-|--|
+|----------------|--------------------|-------------|-----------------|
 | Credit Card    | 10907              | 9384482.20  | 903.40 |
 | Debit Card     | 7968               | 6947690.70  | 913.72 |
 | PayPal         | 4798               | 4124542.81  | 903.67 |
@@ -141,10 +141,17 @@
 **Purpose:** Compare total Revenue and average order value across regional markets.
 
 | state         | total_transactions | net_revenue | avg_order_value |
-||--|-|--|
+|---------------|--------------------|-------------|-----------------|
 | Online        | 16108              | 13978407.46 | 910.50 |
 | California    | 3049               | 2660263.12  | 914.61 |
 | Texas         | 1630               | 1393108.41  | 895.16 |
 | Illinois      | 1559               | 1344152.28  | 907.04 |
 | Massachusetts | 1528               | 1322927.55  | 909.75 |
+| New York      | 1562               | 1295430.17  | 866.49 |
+| Georgia       | 1563               | 1283274.94  | 859.37 |
+| Washington    | 1536               | 1237270.92  | 841.37 |
+| Colorado      | 1529               | 1223314.59  | 842.51 |
+| Florida       | 1587               | 1193083.81  | 794.99 |
+| Unknown       | 644                | 624071.59   | 1018.26 |
+
 
