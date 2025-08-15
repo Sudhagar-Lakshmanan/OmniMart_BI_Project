@@ -1,6 +1,6 @@
-# Section 2 – Products Performance Analysis (SQL Results)
+# Section 2 - Products Performance Analysis (SQL Output)
 
-
+---
 
 ## Q7 : Average Product Ratings
 **Purpose:** Evaluate Product quality perceptions through customer ratings.
@@ -83,7 +83,7 @@
 | Cast Iron Skillet           | 2.5        |
 | Logitech Mouse              | 2          |
 
-
+---
 
 ## Q8 : Top 10 Products by Quantity Sold
 **Purpose:** Discover the most popular items based on total units sold.
@@ -101,7 +101,7 @@
 | Smart Thermostat  | 1186           |
 | Bed Frame         | 1167           |
 
-
+---
 
 ## Q9 : Best-Selling Product Categories by Quantity Sold
 **Purpose:** Compare category-level sales volume to guide inventory planning.
@@ -119,7 +119,7 @@
 | TVs                   | 1890           |
 | Small Kitchen Appliances | 1763       |
 
-
+---
 
 ## Q10 : First-Time Buyers Count by Product Category
 **Purpose:** Identify which Product Categories attract the highest number of new customers.
@@ -142,4 +142,6 @@
 | Cookware                | 95                |
 | Bedding                 | 90                |
 | Computer Accessories    | 88                |
+
+---
 
