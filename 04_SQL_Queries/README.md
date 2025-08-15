@@ -38,7 +38,7 @@ Exported results from analysis queries for use in dashboards, presentations, or 
 - Each workbook corresponds to a section and contains **multiple sheets (Q1, Q2, …)** for individual business questions.
 
 ### Markdown Outputs
-Each `.md` file corresponds to one `.sql` file and contains Q-by-Q results in lightweight format.
+- Each `.md` file corresponds to one `.sql` file and contains Q-by-Q results in lightweight format.
 
 | File Name                        | Description                                                  |
 |----------------------------------|--------------------------------------------------------------|
