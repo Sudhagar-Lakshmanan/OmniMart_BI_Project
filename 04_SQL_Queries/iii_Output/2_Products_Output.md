@@ -1,4 +1,4 @@
-# Section 2 – Products Performance Analysis (SQL Output)
+# Section 2 – Products Performance Analysis (SQL Results)
 
 
 
