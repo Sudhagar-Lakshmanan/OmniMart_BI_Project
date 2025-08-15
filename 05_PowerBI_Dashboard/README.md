@@ -59,3 +59,9 @@ This folder contains the **Power BI data model diagram**, showing how fact and d
 - The **PDF** is kept as a static archive version for quick review.  
 - GIFs are intended to provide **visual previews**.  
 
+---
+
+## Related Folders  
+
+- [04_SQL_Queries](../04_SQL_Queries/README.md) Contains setup scripts, analysis queries, and outputs that feed into this Power BI dashboard.
+
