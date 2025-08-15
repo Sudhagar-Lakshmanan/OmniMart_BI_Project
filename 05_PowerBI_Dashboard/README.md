@@ -1,7 +1,7 @@
 # Power BI Dashboard - Omnichannel Retail Behavior and Performance Analytics
 
 - This folder contains the **Power BI dashboard deliverables** for the project.  
-- The dashboard helps analyze **customer behavior, revenue performance, product insights, campaigns, and support tickets** for the fictional retail client **OmniMart Pvt Ltd**.  
+- The dashboard helps analyze **revenue performance, product insights, customer behavior, campaigns, and support tickets** for the fictional retail client **OmniMart Pvt Ltd**.  
 
 **The artifacts include:**
 - The **interactive `.pbix` file** (main dashboard).  
