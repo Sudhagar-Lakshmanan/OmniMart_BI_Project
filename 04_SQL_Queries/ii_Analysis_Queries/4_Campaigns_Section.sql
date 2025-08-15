@@ -84,7 +84,7 @@ ORDER BY
 
 
 
--- Q19: Session Duration by Channel
+-- Q19: Session Duration by Channel (Mins)
 -- Purpose: Discover which marketing channels retain user attention the longest.
 -- Inputs: interactions (channel, duration)
 -- Output: Channel, Average Session Duration
