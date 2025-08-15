@@ -1,5 +1,6 @@
-# Section 1 – Revenue Performance Analysis (SQL Results)
+# Section 1 – Revenue Performance Analysis (SQL Output)
 
+---
 
 ## Q1 : Revenue Summary Metrics  
 **Purpose:** Track total revenue before and after discounts to reveal the true earning impact.
@@ -8,7 +9,7 @@
 |---------------|-------------|-----------------|
 | 27791844.84   | 27555304.84 | 240770          |
 
-
+---
 
 ## Q2 : Year-over-Year Revenue Growth  
 **Purpose:** Track monthly Revenue trends to assess business momentum and seasonal patterns.
@@ -76,7 +77,7 @@
 | 2020 | 4 | 19253.72 | NULL | NULL |
 | 2020 | 3 | 5555.32 | NULL | NULL |
 
-
+---
 
 ## Q3 : Revenue by Product Categories  
 **Purpose:** Identify product categories driving the highest Revenue to prioritize inventory and marketing.
@@ -100,7 +101,7 @@
 | Bedding                  | 141803.01   |
 | Computer Accessories     | 72131.31    |
 
-
+---
 
 ## Q4 : Top 10 Revenue-Generating Products  
 **Purpose:** Spotlight the highest-Revenue products driving commercial performance.
@@ -118,7 +119,7 @@
 | Google Pixel 6 | 966569.77 |
 | HP Spectre   | 887793.39   |
 
-
+---
 
 ## Q5 : Revenue by Payment Method  
 **Purpose:** Analyze how Payment choices influence Revenue and order behavior.
@@ -134,7 +135,7 @@
 | Google Pay     | 1633               | 1236664.93  | 795.40 |
 | Unknown        | 660                | 500983.25   | 798.61 |
 
-
+---
 
 ## Q6 : State-Wise Revenue Performance  
 **Purpose:** Compare total Revenue and average order value across regional markets.
@@ -153,4 +154,4 @@
 | Florida       | 1587               | 1193083.81  | 794.99 |
 | Unknown       | 644                | 624071.59   | 1018.26 |
 
-
+---
