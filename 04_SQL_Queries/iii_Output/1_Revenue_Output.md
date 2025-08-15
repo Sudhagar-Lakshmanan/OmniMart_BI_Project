@@ -1,4 +1,4 @@
-# Section 1 – Revenue Performance Analysis (SQL output)
+# Section 1 – Revenue Performance Analysis (SQL Results)
 
 
 ## Q1 : Revenue Summary Metrics  
