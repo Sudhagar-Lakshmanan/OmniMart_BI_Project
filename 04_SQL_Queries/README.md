@@ -48,7 +48,7 @@ Exported results from analysis queries for use in dashboards, presentations, or 
 | [4_Campaigns_Output.md](iii_Output/4_Campaigns_Output.md)        | Output from `4_Campaigns_Section.sql`                        |
 | [5_Support_Tickets_Output.md](iii_Output/5_Support_Tickets_Output.md)   | Output from `5_Support_Tickets_Section.sql`                  |
 
-
+---
 
 ### Execution Order:
 1. Run scripts in [i_Setup_Scripts](i_Setup_Scripts) (in numeric order).  
@@ -69,3 +69,5 @@ Exported results from analysis queries for use in dashboards, presentations, or 
 ### Related Folders:
 
 - [`01_Business_Documents`](../01_Business_Documents/.README.md)  
+
+---
