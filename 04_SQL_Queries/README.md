@@ -36,18 +36,18 @@ Each Excel workbook corresponds to one `.sql` file and contains **multiple sheet
 
 | File Name                        | Description                                                  |
 |----------------------------------|--------------------------------------------------------------|
-| [1_Revenue_Output.xlsx](iii_Output/1_Revenue_Output.xlsx)          | Output from `1_Revenue_Section.sql`                          |
-| [2_Products_Output.xlsx](iii_Output/2_Products_Output.xlsx)         | Output from `2_Products_Section.sql`                         |
-| [3_Customers_Output.xlsx](iii_Output/3_Customers_Output.xlsx)        | Output from `3_Customers_Section.sql`                        |
-| [4_Campaigns_Output.xlsx](iii_Output/4_Campaigns_Output.xlsx)        | Output from `4_Campaigns_Section.sql`                        |
-| [5_SupportTickets_Output.xlsx](iii_Output/5_SupportTickets_Output.xlsx)   | Output from `5_Support_Tickets_Section.sql`                  |
+| [1_Revenue_Output.md](iii_Output/1_Revenue_Output.md)          | Output from `1_Revenue_Section.sql`                          |
+| [2_Products_Output.md](iii_Output/2_Products_Output.md)         | Output from `2_Products_Section.sql`                         |
+| [3_Customers_Output.md](iii_Output/3_Customers_Output.md)        | Output from `3_Customers_Section.sql`                        |
+| [4_Campaigns_Output.md](iii_Output/4_Campaigns_Output.md)        | Output from `4_Campaigns_Section.sql`                        |
+| [5_Support_Tickets_Output.md](iii_Output/5_Support_Tickets_Output.md)   | Output from `5_Support_Tickets_Section.sql`                  |
 
 
 
 ### Execution Order:
 1. Run scripts in [i_Setup_Scripts](i_Setup_Scripts) (in numeric order).  
 2. Execute the `.sql` files in [ii_Analysis_Queries](ii_Analysis_Queries) as needed.  
-3. Review outputs in [iii_Output](iii_Output) (Excel workbooks with Q-by-Q results).  
+3. Review outputs in [iii_Output](iii_Output) (Excel folder contains workbooks with Q-by-Q results).  
 
 
 
