@@ -79,7 +79,7 @@
 
 ---
 
-## Q19 : Session Duration by Channel  
+## Q19 : Session Duration by Channel (Mins)
 **Purpose:** Discover which marketing channels retain user attention the longest.  
 
 | channel        | avg_session_duration |
