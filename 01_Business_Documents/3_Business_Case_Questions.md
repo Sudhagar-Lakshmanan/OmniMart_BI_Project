@@ -1,6 +1,7 @@
 # Business Case Questions & Insights
 
-This document consolidates the **Business Case Questions** extracted from the **Business Requirements Document (BRD)**.  
+*(Extracted from Business Requirements Document — BRD)* 
+
 These questions are designed to guide analysis, align reporting with business objectives, and provide actionable insights.
 
 ---
