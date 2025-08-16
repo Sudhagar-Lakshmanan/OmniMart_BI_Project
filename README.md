@@ -69,41 +69,12 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## 🗂 Repository Structure  
+## Data Source & Processing
 
-| Folder | Description |
-|--------|-------------|
-| [01_Business_Documents](01_Business_Documents/) | Business request email, BRD, business case questions, user stories, and use cases. |
-| [02_Process_Flow_Diagrams](02_Process_Flow_Diagrams/) | Current vs. future state process flow diagrams. |
-| [03_Wireframes](03_Wireframes/) | Dashboard wireframes for all report pages. |
-| [04_SQL_Queries](04_SQL_Queries/) | SQL scripts for table setup, cleaning, analysis queries, ERD, and output exports. |
-| [05_PowerBI_Dashboard](05_PowerBI_Dashboard/) | PBIX file, PDF export, animated GIFs of pages, and Power BI data model. |
-| [06_Data_Dictionary](06_Data_Dictionary/) | Data dictionary (`.md`) with table/column-level details and source reference. |
-| [07_User_Acceptance_Testing](07_User_Acceptance_Testing/) | UAT workbook with plan, test cases, defect tracker, traceability, and sign-off. |
-| [08_Executive_Summary](08_Executive_Summary/) | Final stakeholder presentation (PPTX & PDF). |
 
 ---
 
-## 📊 Sample Dashboard Outputs  
-
-### Dashboard Preview (GIF Animations)  
-| Summary Page | Revenue Page | Customers Page |
-|--------------|--------------|----------------|
-| ![Summary](05_PowerBI_Dashboard/iii_GIF_File/1_Summary_Page.gif) | ![Revenue](05_PowerBI_Dashboard/iii_GIF_File/3_Revenue_Page.gif) | ![Customers](05_PowerBI_Dashboard/iii_GIF_File/5_Customers_Page.gif) |
-
----
-
-## 📐 Data Model & ERD  
-
-**Power BI Data Model**  
-![Data Model](05_PowerBI_Dashboard/iv_Data_Model/PowerBI_Data_Model.png)  
-
-**SQL ERD**  
-![ERD](04_SQL_Queries/i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)  
-
----
-
-## 🔄 Process Flow Diagrams  
+## Process Flow Diagrams  
 
 | Current State | Future State |
 |---------------|--------------|
@@ -111,7 +82,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## 🖼 Wireframes (Dashboard Design Phase)  
+## Wireframes (Dashboard Design Phase)  
 
 | Summary Page | Overview Page | Revenue Page |
 |--------------|---------------|--------------|
@@ -122,6 +93,29 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 | ![Products](03_Wireframes/4_Products_page.png) | ![Customers](03_Wireframes/5_Customers_page.png) | ![Campaigns](03_Wireframes/6_Campaigns_page.png) | ![Support](03_Wireframes/7_Support_Tickets_page.png) |
 
 ---
+
+
+## Data Model & ERD  
+
+**Power BI Data Model**  
+![Data Model](05_PowerBI_Dashboard/iv_Data_Model/PowerBI_Data_Model.png)  
+
+**SQL ERD**  
+![ERD](04_SQL_Queries/i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)  
+
+
+---
+
+## Sample Dashboard Outputs  
+
+### Dashboard Preview (GIF Animations)  
+| Summary Page | Revenue Page | Customers Page |
+|--------------|--------------|----------------|
+| ![Summary](05_PowerBI_Dashboard/iii_GIF_File/1_Summary_Page.gif) | ![Revenue](05_PowerBI_Dashboard/iii_GIF_File/3_Revenue_Page.gif) | ![Customers](05_PowerBI_Dashboard/iii_GIF_File/5_Customers_Page.gif) |
+
+
+---
+
 
 ## ✅ User Acceptance Testing (UAT)  
 
@@ -147,6 +141,22 @@ A concise **management-level presentation** summarizing:
 📄 [Download Executive Summary (PDF)](08_Executive_Summary/Executive%20Summary%20Presentation.pdf)  
 
 ---
+
+## 🗂 Repository Structure  
+
+| Folder | Description |
+|--------|-------------|
+| [01_Business_Documents](01_Business_Documents/) | Business request email, BRD, business case questions, user stories, and use cases. |
+| [02_Process_Flow_Diagrams](02_Process_Flow_Diagrams/) | Current vs. future state process flow diagrams. |
+| [03_Wireframes](03_Wireframes/) | Dashboard wireframes for all report pages. |
+| [04_SQL_Queries](04_SQL_Queries/) | SQL scripts for table setup, cleaning, analysis queries, ERD, and output exports. |
+| [05_PowerBI_Dashboard](05_PowerBI_Dashboard/) | PBIX file, PDF export, animated GIFs of pages, and Power BI data model. |
+| [06_Data_Dictionary](06_Data_Dictionary/) | Data dictionary (`.md`) with table/column-level details and source reference. |
+| [07_User_Acceptance_Testing](07_User_Acceptance_Testing/) | UAT workbook with plan, test cases, defect tracker, traceability, and sign-off. |
+| [08_Executive_Summary](08_Executive_Summary/) | Final stakeholder presentation (PPTX & PDF). |
+
+---
+
 
 ## 👤 Author  
 
