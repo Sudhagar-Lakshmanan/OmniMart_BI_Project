@@ -1,6 +1,6 @@
 # User Acceptance Testing (UAT)
 
-This folder contains the **UAT (User Acceptance Testing) workbook** for the *Omnichannel Retail Behaviour and Performance Analytics Dashboard* project.  
+This folder contains the **UAT (User Acceptance Testing) workbook** for the **Omnichannel Retail Behaviour and Performance Analytics Dashboard** project.  
 The workbook consolidates all testing activities required to validate the dashboard against business and functional requirements.
 
 ---
