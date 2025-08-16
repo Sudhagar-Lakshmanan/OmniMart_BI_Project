@@ -77,5 +77,5 @@ These questions analyse customer service performance, efficiency, and recurring 
 
 ---
 
-*These business case questions originate from the BRD and are central to shaping the analysis and dashboard design in this project.*
+
 
