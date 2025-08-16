@@ -56,21 +56,13 @@ The project helps stakeholders (Sales, Marketing, Support, and Leadership teams)
 
 ## 🖼 Wireframes (Dashboard Design Phase)  
 
-### Row 1  
 | Summary Page | Overview Page | Revenue Page |
 |--------------|---------------|--------------|
 | ![Summary](03_Wireframes/1_Summary_page.png) | ![Overview](03_Wireframes/2_Overview_page.png) | ![Revenue](03_Wireframes/3_Revenue_page.png) |
 
-### Row 2  
-| Products Page | Customers Page | Campaigns Page |
-|---------------|----------------|----------------|
-| ![Products](03_Wireframes/4_Products_page.png) | ![Customers](03_Wireframes/5_Customers_page.png) | ![Campaigns](03_Wireframes/6_Campaigns_page.png) |
-
-### Row 3  
-| Support Tickets Page |
-|----------------------|
-| ![Support](03_Wireframes/7_Support_Tickets_page.png) |
-
+| Products Page | Customers Page | Campaigns Page | Support Tickets Page |
+|---------------|----------------|----------------|----------------------|
+| ![Products](03_Wireframes/4_Products_page.png) | ![Customers](03_Wireframes/5_Customers_page.png) | ![Campaigns](03_Wireframes/6_Campaigns_page.png) | ![Support](03_Wireframes/7_Support_Tickets_page.png) |
 
 ---
 
