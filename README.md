@@ -20,14 +20,14 @@ It includes business documentation, process flows, wireframes, SQL logic, Power 
 - [Data Source and Processing](#data-source-and-processing)  
 - [Workflow and Approach](#workflow-and-approach)  
 - [Tools Used](#tools-used)  
+- [Data Architecture & Modeling](#data-architecture--modeling)  
 - [Preview](#preview)  
   - [Process Flow Diagrams](#process-flow-diagrams)  
-  - [Wireframes](#wireframes)
-- [Data Architecture & Modeling](#data-architecture-&-modeling)
+  - [Wireframes](#wireframes)  
 - [Key Insights](#key-insights)  
 - [Recommendations](#recommendations)  
 - [Action Plan](#action-plan)  
-- [Repository Structure](#repository-structure)  
+- [Repository Structure](#repository-structure)    
 - [Documentation](#documentation)  
 - [Next Steps](#next-steps)  
 
@@ -92,6 +92,8 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 - Checked quality: minor missing values (e.g., phone, discounts), assumed all amounts in **USD**.
 - Imported datasets into MySQL for structured cleaning and transformation.
 
+**SQL ERD**  
+![ERD](04_SQL_Queries/i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)  
 
 **Data Cleaning:**
 - Fixed missing values (dates, budget, ratings, product names).
@@ -130,6 +132,11 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
+## Data Model & ERD  
+
+**Power BI Data Model**  
+![Data Model](05_PowerBI_Dashboard/iv_Data_Model/PowerBI_Data_Model.png)  
+
 ## Process Flow Diagrams  
 
 | Current State | Future State |
@@ -147,17 +154,6 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 | Products Page | Customers Page | Campaigns Page | Support Tickets Page |
 |---------------|----------------|----------------|----------------------|
 | ![Products](03_Wireframes/4_Products_page.png) | ![Customers](03_Wireframes/5_Customers_page.png) | ![Campaigns](03_Wireframes/6_Campaigns_page.png) | ![Support](03_Wireframes/7_Support_Tickets_page.png) |
-
----
-
-
-## Data Model & ERD  
-
-**Power BI Data Model**  
-![Data Model](05_PowerBI_Dashboard/iv_Data_Model/PowerBI_Data_Model.png)  
-
-**SQL ERD**  
-![ERD](04_SQL_Queries/i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)  
 
 
 ---
