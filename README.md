@@ -71,12 +71,12 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ## Data Source and Processing
 
-### About the Source 
+**About the Source:**
 - The dataset was sourced from Kaggle website, a popular platform for hosting datasets. 
 - Kaggle hosts a wide range of community-contributed datasets, making it a valuable resource for analysis projects.
 - This dataset contains fictional or sample retail data gathered from various sources within a retail business environment.
 
-### Description of the Dataset
+**Description of the Dataset:**
 - **Platform**: [Kaggle - Retail Customer & Transaction Dataset](https://www.kaggle.com/)  
 - **Period Covered**: March 2020 – March 2025  
 - **Files Used**:  
@@ -87,13 +87,13 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
   - `Customer Reviews.csv`  
   - `Support Tickets.csv`  
 
-### Data Preparation & Processing
+**Data Preparation & Processing:**
 - Verified file structures and column definitions in Excel.
 - Checked quality: minor missing values (e.g., phone, discounts), assumed all amounts in **USD**.
 - Imported datasets into MySQL for structured cleaning and transformation.
 
 
-### Data Cleaning
+**Data Cleaning:**
 - Fixed missing values (dates, budget, ratings, product names).
 - Removed duplicates (customer_id, emails).
 - Validated formats (emails, phone numbers, names).
@@ -111,11 +111,21 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 3. Process Mapping (current & future state in Lucidchart).  
 4. Wireframes (Balsamiq).  
 5. Analysis Question Framework (26 business questions).  
-6. Data Cleaning & Preparation (SQL).  
+6. Data Cleaning & Preparation (MySQL).  
 7. SQL Development (26 queries aligned to KPIs).  
 8. Power BI Dashboard Development (DAX measures, modeling, slicers, drill-through, custom tooltip pages).  
 9. UAT (plan, test cases, defect tracker, sign-off).  
 10. Delivery (final dashboard + supporting docs).  
+
+---
+
+## Tools Used  
+- **Lucidchart** – Process Flow Diagrams  
+- **Balsamiq** – Wireframes  
+- **Excel** – Initial Profiling, UAT Documentation 
+- **MySQL** – Data storage, Data Cleaning, KPI transformations  
+- **Power BI** – Dashboard development (DAX, visuals, interactions)  
+- **MS Word / PowerPoint** – Documentation and Executive Summary  
 
 ---
 
