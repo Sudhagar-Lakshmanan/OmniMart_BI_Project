@@ -144,5 +144,5 @@ Tracks customer support interactions and resolution details.
 
 Below is the ERD showing relationships between all datasets used in this project:
 
-![ERD](../04_SQL_Queries/i_Setup_scripts/3_erd.png)
+![ERD](../../04_SQL_Queries/i_Setup_scripts/3_erd.png)
 
