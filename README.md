@@ -121,12 +121,12 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 ---
 
 ## Tools Used  
-- **Excel** – Initial Profiling, UAT Documentation 
-- **Lucidchart** – Process Flow Diagrams  
-- **Balsamiq** – Wireframes  
-- **MySQL** – Data storage, Data Cleaning, KPI transformations  
-- **Power BI** – Dashboard development (DAX, visuals, interactions)  
-- **MS Word / PowerPoint** – Documentation and Executive Summary  
+- **Excel** - Initial Profiling, UAT Documentation 
+- **Lucidchart** - Process Flow Diagrams  
+- **Balsamiq** - Wireframes  
+- **MySQL** - Data storage, Data Cleaning, KPI transformations  
+- **Power BI** - Dashboard development (DAX, visuals, interactions)  
+- **MS Word / PowerPoint** - Documentation and Executive Summary  
 
 ---
 
