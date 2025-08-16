@@ -53,7 +53,7 @@ Includes purchase information for products bought by customers.
 ## 3. Interactions  
 Captures various interactions customers have with the company’s digital channels.  
 
-- **Rows:** 100,000  
+- **Rows:** 1,00,000  
 - **Columns:** 8  
 
 | Column Name       | Data Type | Description |
