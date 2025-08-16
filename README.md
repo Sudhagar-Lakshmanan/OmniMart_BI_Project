@@ -23,7 +23,7 @@ The project helps stakeholders (Sales, Marketing, Support, and Leadership teams)
 ---
 
 ## Table of Contents  
-1. [Project Overview](#project-overview)  
+1. [Project Overview](#1.project-overview)  
 2. [Business Objectives](#business-objectives)  
 3. [Data Source & Processing](#data-source--processing)  
 4. [Workflow & Approach](#workflow--approach)  
@@ -41,7 +41,7 @@ The project helps stakeholders (Sales, Marketing, Support, and Leadership teams)
 
 ---
 
-## Project Overview  
+## 1. Project Overview  
 This analysis was conducted as part of a **business intelligence initiative** to evaluate the omnichannel retail behavior and performance of a fictional retail brand **OmniMart Pvt Ltd** over the period **March 2020 – March 2025**.  
 
 The objective was to uncover **actionable insights** and opportunities across five key business areas:  
