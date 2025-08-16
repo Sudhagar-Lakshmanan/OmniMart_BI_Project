@@ -2,7 +2,7 @@
 
 This folder contains the **data dictionary** for the project, outlining the structure, fields, and metadata of all datasets used in the analysis and Power BI dashboard.  
 
-The source data is from Kaggle: [Retail Customer and Transaction Dataset](https://www.kaggle.com/datasets/raghavendragandhi/retail-customer-and-transaction-dataset?select=customer_reviews_complete.csv).
+The source data is from **Kaggle:** [Retail Customer and Transaction Dataset](https://www.kaggle.com/datasets/raghavendragandhi/retail-customer-and-transaction-dataset?select=customer_reviews_complete.csv).
 
 ---
 
