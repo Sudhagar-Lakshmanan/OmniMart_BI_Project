@@ -64,7 +64,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 **Foster Accountability Through Role-Based Reporting:**
 - Provide tailored dashboards with access control for executives, managers, analysts and support teams.
 
-**Support Operational Efficiency and Data Trust**
+**Support Operational Efficiency and Data Trust:**
 - Replace manual reports with automated, validated dashboards powered by SQL and Power BI.
 
 ---
