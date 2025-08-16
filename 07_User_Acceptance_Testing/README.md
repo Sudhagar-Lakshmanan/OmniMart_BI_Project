@@ -37,6 +37,6 @@ The UAT process ensures the dashboard:
 
 ---
 
-> **Note on Role-Based Access (RLS)**  
+> **Note on Role-Based Access (RLS):** 
 > Role-Based Access test scenarios are included in the UAT plan for completeness.  
 > However, **RLS was not implemented in this project**, as actual role assignments and restrictions can only be configured and validated **after publishing to Power BI Service with real user identities**.  
