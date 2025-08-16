@@ -6,7 +6,7 @@ It includes business documentation, process flows, wireframes, SQL logic, Power 
 
 ---
 
-## Branding & Stakeholder Disclaimer
+## Branding & Stakeholder Disclaimer!
 
 - All company names, stakeholder personas, and branding elements in this repository are **fictional** and used solely for illustrative purposes.
 - The logo is **AI-generated** to simulate a realistic enterprise environment.
