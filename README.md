@@ -27,15 +27,6 @@ The project helps stakeholders (Sales, Marketing, Support, and Leadership teams)
 
 ---
 
-## 🚀 Tools & Technologies  
-
-- **SQL** → Data cleaning, validation, and analytical queries  
-- **Power BI** → Data modelling, DAX measures, interactive dashboards  
-- **Excel** → UAT planning, test cases, defect tracking  
-- **Markdown / Docs** → Documentation, business requirements, data dictionary  
-
----
-
 ## 📊 Sample Dashboard Outputs  
 
 ### Dashboard Preview (GIF Animations)  
@@ -52,6 +43,26 @@ The project helps stakeholders (Sales, Marketing, Support, and Leadership teams)
 
 **SQL ERD**  
 ![ERD](04_SQL_Queries/i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)  
+
+---
+
+## 🔄 Process Flow Diagrams  
+
+| Current State | Future State |
+|---------------|--------------|
+| ![Current State](02_Process_Flow_Diagrams/1_Process_flow_Current_state.png) | ![Future State](02_Process_Flow_Diagrams/2_Process_flow_Future_state.png) |
+
+---
+
+## 🖼 Wireframes (Dashboard Design Phase)  
+
+| Summary Page | Overview Page | Revenue Page |
+|--------------|---------------|--------------|
+| ![Summary](03_Wireframes/1_Summary_page.png) | ![Overview](03_Wireframes/2_Overview_page.png) | ![Revenue](03_Wireframes/3_Revenue_page.png) |
+
+| Products Page | Customers Page | Campaigns Page | Support Tickets Page |
+|---------------|----------------|----------------|----------------------|
+| ![Products](03_Wireframes/4_Products_page.png) | ![Customers](03_Wireframes/5_Customers_page.png) | ![Campaigns](03_Wireframes/6_Campaigns_page.png) | ![Support](03_Wireframes/7_Support_Tickets_page.png) |
 
 ---
 
