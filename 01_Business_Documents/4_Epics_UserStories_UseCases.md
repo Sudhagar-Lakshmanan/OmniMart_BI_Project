@@ -2,9 +2,9 @@
 *(Extracted from Business Requirements Document - BRD)*  
 
 This document captures the **functional requirements** of the project in a structured way.  
-- **1. Epics** describe the high-level business goals and themes that the solution must achieve.  
-- **2. User Stories** break down these epics into smaller, actionable requirements with clear acceptance criteria.  
-- **3. Use Cases** describe how different actors interact with the dashboards and data to achieve specific outcomes.  
+**1. Epics** describe the high-level business goals and themes that the solution must achieve.  
+**2. User Stories** break down these epics into smaller, actionable requirements with clear acceptance criteria.  
+**3. Use Cases** describe how different actors interact with the dashboards and data to achieve specific outcomes.  
 
 Together, these provide a comprehensive view of the **business needs, user expectations, and system interactions**, forming the foundation for development, testing, and validation.  
 
