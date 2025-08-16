@@ -13,7 +13,7 @@
  
 
 ## i_PBIX_File  
-This folder contains the **core Power BI dashboard file**, which is fully interactive and includes all report pages, drillthroughs, and tooltips.  
+This folder contains the **core Power BI dashboard file**, which is fully interactive and includes all report pages, drillthroughs, and custom tooltips pages.  
 
 | File | Description |
 |------|-------------|
