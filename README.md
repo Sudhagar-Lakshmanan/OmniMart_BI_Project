@@ -1,4 +1,4 @@
-Omnichannel Retail Behaviour and Performance Analytics Dashboard  
+# Omnichannel Retail Behaviour and Performance Analytics Dashboard  
 
 This repository showcases a comprehensive analytics solution for a fictional retail company, **OmniMart Pvt Ltd**, designed to analyze customer behavior, campaign performance, and operational KPIs across multiple channels.
 
