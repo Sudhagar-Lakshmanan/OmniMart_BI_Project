@@ -1,5 +1,5 @@
 # Epics and User Stories with Acceptance Criteria  
-*(Extracted from Business Requirements Document — BRD)*  
+*(Extracted from Business Requirements Document - BRD)*  
 
 This document captures the high-level **Epics** and detailed **User Stories with Acceptance Criteria** that guide the design and implementation of the Power BI dashboard solution.  
 
