@@ -6,14 +6,6 @@ It includes business documentation, process flows, wireframes, SQL logic, Power 
 
 ---
 
-The project helps stakeholders (Sales, Marketing, Support, and Leadership teams) gain insights into:  
-- 📊 Revenue trends across regions & products
-- 🛒 Product performance and satisfaction ratings  
-- 👥 Customer behaviour, churn, and retention  
-- 📢 Campaign ROI & conversions  
-- 🎫 Support tickets & SLA compliance  
-
-
 ## Branding & Stakeholder Disclaimer
 
 - All company names, stakeholder personas, and branding elements in this repository are **fictional** and used solely for illustrative purposes.
@@ -23,35 +15,59 @@ The project helps stakeholders (Sales, Marketing, Support, and Leadership teams)
 ---
 
 ## Table of Contents  
-1. [Project Overview](#project-overview)  
-2. [Business Objectives](#business-objectives)  
-3. [Data Source & Processing](#data-source--processing)  
-4. [Workflow & Approach](#workflow--approach)  
-5. [Tools Used](#tools-used)  
-6. [Preview](#preview)  
-   - [Process Flow Diagrams](#process-flow-diagrams)  
-   - [Wireframes](#wireframes)
-7. [Data Architecture & Modeling](#data-architecture-&-modeling)
-7. [Key Insights](#key-insights)  
-8. [Recommendations](#recommendations)  
-9. [Action Plan](#action-plan)  
-10. [Repository Structure](#repository-structure)  
-11. [Documentation](#documentation)  
-12. [Next Steps](#next-steps)  
+- [Project Overview](#project-overview)  
+- [Business Objectives](#business-objectives)  
+- [Data Source & Processing](#data-source--processing)  
+- [Workflow & Approach](#workflow--approach)  
+- [Tools Used](#tools-used)  
+- [Preview](#preview)  
+  - [Process Flow Diagrams](#process-flow-diagrams)  
+  - [Wireframes](#wireframes)
+- [Data Architecture & Modeling](#data-architecture-&-modeling)
+- [Key Insights](#key-insights)  
+- [Recommendations](#recommendations)  
+- [Action Plan](#action-plan)  
+- [Repository Structure](#repository-structure)  
+- [Documentation](#documentation)  
+- [Next Steps](#next-steps)  
 
 ---
 
 ## Project Overview  
+
 This analysis was conducted as part of a **business intelligence initiative** to evaluate the omnichannel retail behavior and performance of a fictional retail brand **OmniMart Pvt Ltd** over the period **March 2020 – March 2025**.  
 
-The objective was to uncover **actionable insights** and opportunities across five key business areas:  
-- **Revenue**  
-- **Products**  
-- **Customers**  
-- **Campaigns**  
-- **Support Operations**  
+The project helps stakeholders (Sales, Marketing, Support, and Leadership teams) gain insights into:  
+- Revenue trends across regions & products
+- Product performance and satisfaction ratings  
+- Customer behaviour, churn, and retention  
+- Campaign ROI & conversions  
+- Support tickets & SLA compliance  
 
 The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-based data transformations** and **business documentation (BRD, UAT, Executive Summary)**.  
+
+---
+
+## Business Objectives
+
+**What OmniMart Aims to Achieve with the Power BI Dashboard ?**
+
+**Accelerate Decision-Making:**
+- Deliver real-time, actionable insights to decision-makers across sales, marketing and support functions. 
+
+**Unify Omnichannel Performance Visibility:**
+- Integrate sales, customer, campaign and support data from offline and online channels into one platform.
+
+**Enhance Customer Engagement & Retention:**
+- Track churn, campaign responses and SLA metric, CSS to improve satisfaction and loyalty.
+
+**Foster Accountability Through Role-Based Reporting:**
+- Provide tailored dashboards with access control for executives, managers, analysts and support teams.
+
+**Support Operational Efficiency and Data Trust**
+- Replace manual reports with automated, validated dashboards powered by SQL and Power BI.
+
+---
 
 ## 🗂 Repository Structure  
 
