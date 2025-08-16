@@ -1,11 +1,17 @@
-# Epics and User Stories with Acceptance Criteria  
+# Epics, User Stories & Use Cases 
 *(Extracted from Business Requirements Document - BRD)*  
 
-This document captures the high-level **Epics** and detailed **User Stories with Acceptance Criteria** that guide the design and implementation of the Power BI dashboard solution.  
+This document captures the **functional requirements** of the project in a structured way.  
+- **1. Epics** describe the high-level business goals and themes that the solution must achieve.  
+- **2. User Stories** break down these epics into smaller, actionable requirements with clear acceptance criteria.  
+- **3. Use Cases** describe how different actors interact with the dashboards and data to achieve specific outcomes.  
+
+Together, these provide a comprehensive view of the **business needs, user expectations, and system interactions**, forming the foundation for development, testing, and validation.  
+
 
 ---
 
-## Epics  
+## 1. Epics  
 
 | Epic ID | Epic Name                        | Description                                                                 |
 |---------|----------------------------------|-----------------------------------------------------------------------------|
@@ -18,7 +24,7 @@ This document captures the high-level **Epics** and detailed **User Stories with
 
 ---
 
-## User Stories with Acceptance Criteria  
+## 2. User Stories with Acceptance Criteria  
 
 | Epic ID | User Story ID | User Story | Acceptance Criteria |
 |---------|---------------|------------|---------------------|
@@ -49,6 +55,25 @@ This document captures the high-level **Epics** and detailed **User Stories with
 | EP-06 | US-25 | As a Data Engineer, I want to provide clean, joined SQL datasets and schema views so that dashboards load efficiently. | Given Power BI model is built, when data is refreshed, then it uses cleaned and joined staging tables for performance. |
 | EP-06 | US-26 | As a Data Engineer, I want to schedule data refreshes regularly so that stakeholders always see up-to-date information. | Given the report is deployed, when a new day/hour begins, then data should be auto-refreshed and logged successfully. |
 | EP-06 | US-27 | As a Data Engineer, I want to apply role-level security if needed so that users see only relevant data. | Given user roles are mapped, when I set RLS rules, then access is restricted as per user role in Power BI. |
+
+---
+
+## 3. Use Cases List  
+
+| Use Case ID | Title                          | Primary Actor             | Brief Description                                                                | User Story ID            | Dashboard Section   | Pre-Condition                                | Post-Condition                                                                 |
+|-------------|--------------------------------|---------------------------|----------------------------------------------------------------------------------|--------------------------|---------------------|----------------------------------------------|---------------------------------------------------------------------------------|
+| UC-01       | View Summary Page Insights     | Project Sponsor           | View key takeaways from all pages including revenue, customer, and campaigns      | US-01, US-04             | Summary             | User has report access and valid credentials. | Summary page opens with narrative insights across business metrics.             |
+| UC-02       | Validate Summary Page Metrics  | Business Intelligence Analyst | Verify if DAX-driven bullet insights match defined KPIs and stakeholder needs | US-22, US-24             | Summary             | Summary cards and narrative visuals are built | Validated definitions and layouts meet business expectations.                   |
+| UC-03       | Filter Overview KPIs by Time   | Project Sponsor           | Use date slicers to compare performance across years or quarters                  | US-02                   | Overview            | Slicers available and data model supports time | KPI visuals dynamically update per date selection.                              |
+| UC-04       | Monitor Churn by Age group     | Project Sponsor           | Analyse churn count data by Age group using churn period slicer                   | US-03                   | Overview            | Customer churn count data exists              | Related visuals show churn count by age group.                                  |
+| UC-05       | Review Revenue by Region & Category | Sales Manager         | Analyse revenue split by region and product category                              | US-05, US-06             | Revenue             | Sales and product data loaded                 | Visuals display YoY growth and regional revenue trends.                         |
+| UC-06       | View Top Products and Ratings  | Sales Manager             | Identify top 10 products and their average ratings                                | US-08, US-09             | Products            | Product and rating data available             | Visuals show sorted product revenue and customer satisfaction ratings.          |
+| UC-07       | Evaluate Campaign ROI & Conversions | Marketing Analyst      | Monitor campaign ROI and drill into types or channels                             | US-10, US-11, US-14      | Campaigns           | Campaign-level data populated                 | Charts show conversion, ROI, and channel-based insights.                        |
+| UC-08       | Compare Ticket Trends & SLA    | Support Manager           | Review total ticket volume, resolution times, and SLA breaches                    | US-15, US-16, US-17      | Support Tickets     | Tickets and timestamps present                | Trendlines and charts reflect ticket handling performance.                      |
+| UC-09       | Segment Customer Retention Insights | Support Manager        | Analyse repeat purchase behaviour and churn by demographics and channel           | US-18, US-19, US-20, US-21 | Customers        | Customer and transaction data joined          | Visuals show repeat customers, churn % by age group/channel, and top customers. |
+| UC-10       | QA Filters and Slicers Functionality | Business Intelligence Analyst | Validate that all filters, slicers and drilldowns work correctly              | US-23                   | All Pages           | Test cases and QA checklist available         | Slicers and interactions behave as expected on all relevant pages.              |
+| UC-11       | Schedule Data Refresh Jobs     | Data Engineer             | Automate daily/hourly data refresh in Power BI                                    | US-26                   | Back-end (not visual) | Data pipeline and schedule are set            | Dashboards reflect up-to-date metrics after scheduled loads.                    |
+| UC-12       | Apply Role-Level Security (RLS) | Data Engineer            | Restrict data access based on user roles                                          | US-27                   | All Pages           | RLS mapping and logic defined                 | Users see only authorized data as per their roles.                              |
 
 ---
 
