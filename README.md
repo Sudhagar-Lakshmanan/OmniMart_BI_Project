@@ -10,6 +10,13 @@ The project helps stakeholders (Sales, Marketing, Support, and Leadership teams)
 - 📢 Campaign ROI & conversions  
 - 🎫 Support tickets & SLA compliance  
 
+
+## 🏢 Branding & Stakeholder Disclaimer
+
+- All company names, stakeholder personas, and branding elements in this repository are **fictional** and used solely for illustrative purposes.
+- The logo is **AI-generated** to simulate a realistic enterprise environment.
+- No real individuals, organizations, or proprietary data are represented.
+
 ---
 
 ## 🗂 Repository Structure  
