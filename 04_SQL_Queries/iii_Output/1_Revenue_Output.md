@@ -1,4 +1,4 @@
-# Section 1 – Revenue Performance Analysis (SQL Output)
+# Section 1 - Revenue Performance Analysis (SQL Output)
 
 ---
 
