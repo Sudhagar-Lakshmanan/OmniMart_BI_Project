@@ -1,21 +1,43 @@
 # Omnichannel Retail Behaviour and Performance Analytics Dashboard  
 
-This project demonstrates the **end-to-end development of a retail analytics dashboard** using **SQL, Power BI, and Excel**.  
-It simulates a real-world workflow, starting from **business request → requirements → design → data preparation → dashboard build → UAT → executive summary**.  
+This repository showcases a comprehensive analytics solution for a fictional retail company, **OmniMart Pvt Ltd**, designed to analyze customer behavior, campaign performance, and operational KPIs across multiple channels.
+
+It includes business documentation, process flows, wireframes, SQL logic, Power BI dashboards, data dictionary, UAT artifacts, and executive summaries - all structured for clarity, traceability, and stakeholder usability.
+
+---
 
 The project helps stakeholders (Sales, Marketing, Support, and Leadership teams) gain insights into:  
-- 📊 Revenue trends across regions & products  
-- 👥 Customer behaviour, churn, and retention  
+- 📊 Revenue trends across regions & products
 - 🛒 Product performance and satisfaction ratings  
+- 👥 Customer behaviour, churn, and retention  
 - 📢 Campaign ROI & conversions  
 - 🎫 Support tickets & SLA compliance  
 
 
-## 🏢 Branding & Stakeholder Disclaimer
+## Branding & Stakeholder Disclaimer
 
 - All company names, stakeholder personas, and branding elements in this repository are **fictional** and used solely for illustrative purposes.
 - The logo is **AI-generated** to simulate a realistic enterprise environment.
 - No real individuals, organizations, or proprietary data are represented.
+
+---
+
+## Table of Contents  
+1. [Project Overview](#project-overview)  
+2. [Business Objectives](#business-objectives)  
+3. [Data Source & Processing](#data-source--processing)  
+4. [Workflow & Approach](#workflow--approach)  
+5. [Tools Used](#tools-used)  
+6. [Preview](#preview)  
+   - [Process Flow Diagrams](#process-flow-diagrams)  
+   - [Wireframes](#wireframes)
+7. [Data Architecture & Modeling](#data-architecture-&-modeling)
+7. [Key Insights](#key-insights)  
+8. [Recommendations](#recommendations)  
+9. [Action Plan](#action-plan)  
+10. [Repository Structure](#repository-structure)  
+11. [Documentation](#documentation)  
+12. [Next Steps](#next-steps)  
 
 ---
 
