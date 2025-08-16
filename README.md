@@ -1,4 +1,4 @@
-# Omnichannel Retail Behaviour and Performance Analytics Dashboard  
+<img width="1481" height="666" alt="image" src="https://github.com/user-attachments/assets/78cdc896-d785-4309-b394-491a7c9d4bc0" /># Omnichannel Retail Behaviour and Performance Analytics Dashboard  
 
 This repository showcases a comprehensive analytics solution for a fictional retail company, **OmniMart Pvt Ltd**, designed to analyze customer behavior, campaign performance, and operational KPIs across multiple channels.
 
@@ -17,8 +17,8 @@ It includes business documentation, process flows, wireframes, SQL logic, Power 
 ## Table of Contents  
 - [Project Overview](#project-overview)  
 - [Business Objectives](#business-objectives)  
-- [Data Source & Processing](#data-source--processing)  
-- [Workflow & Approach](#workflow--approach)  
+- [Data Source and Processing](#data-source-and-processing)  
+- [Workflow and Approach](#workflow-and-approach)  
 - [Tools Used](#tools-used)  
 - [Preview](#preview)  
   - [Process Flow Diagrams](#process-flow-diagrams)  
@@ -69,8 +69,53 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## Data Source & Processing
+## Data Source and Processing
 
+### About the Source 
+- The dataset was sourced from Kaggle website, a popular platform for hosting datasets. 
+- Kaggle hosts a wide range of community-contributed datasets, making it a valuable resource for analysis projects.
+- This dataset contains fictional or sample retail data gathered from various sources within a retail business environment.
+
+### Description of the Dataset
+- **Platform**: [Kaggle - Retail Customer & Transaction Dataset](https://www.kaggle.com/)  
+- **Period Covered**: March 2020 – March 2025  
+- **Files Used**:  
+  - `Customers.csv`  
+  - `Transactions.csv`  
+  - `Interactions.csv`  
+  - `Campaigns.csv`  
+  - `Customer Reviews.csv`  
+  - `Support Tickets.csv`  
+
+### Data Preparation & Processing
+- Verified file structures and column definitions in Excel.
+- Checked quality: minor missing values (e.g., phone, discounts), assumed all amounts in **USD**.
+- Imported datasets into MySQL for structured cleaning and transformation.
+
+
+### Data Cleaning
+- Fixed missing values (dates, budget, ratings, product names).
+- Removed duplicates (customer_id, emails).
+- Validated formats (emails, phone numbers, names).
+- Flagged orphan records; identified outliers in age, prices, satisfaction scores.
+- Standardized store location (City/State).
+- Standardized categorical values (e.g., store location formats).
+- Recalculated and validated campaign KPIs.
+
+---
+
+## Workflow and Approach  
+
+1. Requirement Gathering (sample request email).  
+2. BRD creation (objectives, KPIs, user stories, use cases).  
+3. Process Mapping (current & future state in Lucidchart).  
+4. Wireframes (Balsamiq).  
+5. Analysis Question Framework (26 business questions).  
+6. Data Cleaning & Preparation (SQL).  
+7. SQL Development (26 queries aligned to KPIs).  
+8. Power BI Dashboard Development (DAX measures, modeling, slicers, drill-through, custom tooltip pages).  
+9. UAT (plan, test cases, defect tracker, sign-off).  
+10. Delivery (final dashboard + supporting docs).  
 
 ---
 
