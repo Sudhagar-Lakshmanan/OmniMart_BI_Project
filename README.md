@@ -107,22 +107,23 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 ## Workflow and Approach  
 
 1. Requirement Gathering (sample request email).  
-2. BRD creation (objectives, KPIs, user stories, use cases).  
+2. BRD creation (objectives, KPIs, business case questions, user stories, use cases).  
 3. Process Mapping (current & future state in Lucidchart).  
 4. Wireframes (Balsamiq).  
 5. Analysis Question Framework (26 business questions).  
-6. Data Cleaning & Preparation (MySQL).  
-7. SQL Development (26 queries aligned to KPIs).  
-8. Power BI Dashboard Development (DAX measures, modeling, slicers, drill-through, custom tooltip pages).  
-9. UAT (plan, test cases, defect tracker, sign-off).  
-10. Delivery (final dashboard + supporting docs).  
+6. Database Creation, Data Insert, Data Cleaning & Preparation (MySQL).  
+7. SQL Development (26 queries aligned to KPIs).
+8. Create connection between MySQL and Power BI through IMPORT MODE
+9. Power BI Dashboard Development (ETL, modeling, DAX measures, slicers, drill-through, custom tooltip pages).  
+10. UAT (plan, test cases, defect tracker, sign-off).  
+11. Delivery (final dashboard, supporting docs).  
 
 ---
 
 ## Tools Used  
+- **Excel** – Initial Profiling, UAT Documentation 
 - **Lucidchart** – Process Flow Diagrams  
 - **Balsamiq** – Wireframes  
-- **Excel** – Initial Profiling, UAT Documentation 
 - **MySQL** – Data storage, Data Cleaning, KPI transformations  
 - **Power BI** – Dashboard development (DAX, visuals, interactions)  
 - **MS Word / PowerPoint** – Documentation and Executive Summary  
