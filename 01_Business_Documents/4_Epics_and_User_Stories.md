@@ -5,7 +5,7 @@ This document captures the high-level **Epics** and detailed **User Stories with
 
 ---
 
-## 📌 Epics  
+## Epics  
 
 | Epic ID | Epic Name                        | Description                                                                 |
 |---------|----------------------------------|-----------------------------------------------------------------------------|
