@@ -1,65 +1,42 @@
-# User Acceptance Testing (UAT) Overview
+# User Acceptance Testing (UAT)
 
 This folder contains the **UAT (User Acceptance Testing) workbook** for the *Omnichannel Retail Behaviour and Performance Analytics Dashboard* project.  
-The purpose of UAT is to validate that the dashboard meets all functional requirements, user expectations, and business needs before final deployment.
+The workbook consolidates all testing activities required to validate the dashboard against business and functional requirements.
+
+---
+
+## Contents
+
+- **UAT Plan**  
+  Defines the project details, objectives, scope, test environment, entry/exit criteria, deliverables, risks/assumptions, and approvers.
+
+- **UAT Test Case Matrix**  
+  Detailed list of test cases mapped to user stories, including test steps, expected results, roles, report pages, and defect links.
+
+- **UAT Test Cases Summary**  
+  Pivot tables and visual charts summarizing test case execution by role and by status.
+
+- **UAT Defect Tracker**  
+  Records all identified defects with severity, status, resolution notes, and ownership.
+
+- **UAT Traceability Matrix**  
+  Links test cases back to user stories and use cases to ensure coverage and alignment with business requirements.
+
+- **Sign-Off**  
+  Formal stakeholder approval indicating successful completion of UAT.
+
+---
 
 ## Purpose
-This UAT ensures:  
-- The dashboard aligns with **business requirements (BRD)**  
-- All defects are tracked, resolved, and approved before go-live  
+
+The UAT process ensures the dashboard:  
+- Meets defined business goals and KPIs  
+- Functions correctly across different report pages  
+- Delivers reliable insights to stakeholders before go-live  
+- Provides traceability between requirements, user stories, and test cases  
 
 ---
 
-## File
-- **UAT_Workbook.xlsx** – Master UAT file containing the full testing lifecycle (plan, cases, defect tracking, traceability, and sign-off).
-
----
-
-## Workbook Contents
-
-### 1. UAT Plan
-Outlines the overall testing approach, including:
-- **Objective** – Validate functionality and business alignment  
-- **Scope & Out of Scope** – What is included/excluded in testing  
-- **Environment** – Power BI Service (workspace/shared link)  
-- **Team & Roles** – Sponsor, UAT coordinator, Sales, Marketing, Support  
-- **Schedule** – Start: *26-Jul-2025* | End: *29-Jul-2025*  
-- **Entry/Exit Criteria** – Pre-conditions for testing start/closure  
-- **Deliverables** – Test case matrix, defect tracker, traceability matrix, summary, sign-off  
-- **Risks & Assumptions** – Availability, data quality, requirement stability  
-- **Approvers** – Strategic Approver, Project Sponsor, UAT Coordinator  
-
----
-
-### 2. UAT Test Case Matrix – Dashboard Validation
-- Detailed test scenarios linked to **user stories** and **report pages**  
-- Includes test steps, expected results, roles, execution status, and defect mapping  
-
----
-
-### 3. UAT Test Cases Summary
-- **Pivot tables**:  
-  - Test cases by **role**  
-  - Test cases by **status**  
-- **Visuals**:  
-  - Bar chart (role-wise distribution)  
-  - Doughnut chart (status-wise distribution)  
-
----
-
-### 4. UAT Defect Tracker
-- Centralized log of defects raised during UAT  
-- Columns: Defect ID, Description, Linked Test Case, Severity, Status, Resolution, Logged By, Date Logged, Comments  
-
----
-
-### 5. UAT Traceability Matrix
-- Ensures full coverage between **user stories**, **test cases**, and **use cases**  
-- Maps to defects and execution status for transparency  
-
----
-
-### 6. Sign-Off
-- Final stakeholder sign-off section documenting acceptance of the UAT results.  
-
----
+> **Note on Role-Based Access (RLS)**  
+> Role-Based Access test scenarios are included in the UAT plan for completeness.  
+> However, **RLS was not implemented in this project**, as actual role assignments and restrictions can only be configured and validated **after publishing to Power BI Service with real user identities**.  
