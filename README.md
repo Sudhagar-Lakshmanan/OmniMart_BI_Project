@@ -83,7 +83,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 **Description of the Dataset:**
 - **Platform**: [Kaggle - Retail Customer & Transaction Dataset](https://www.kaggle.com/)  
-- **Period Covered**: March 2020 – March 2025  
+- **Period Covered**: March 2020 - March 2025  
 - **Files Used**:  
   - `Customers.csv`  
   - `Transactions.csv`  
@@ -128,7 +128,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 - **Lucidchart** - Process Flow Diagrams  
 - **Balsamiq** - Wireframes  
 - **MySQL** - Data storage, Data Cleaning, KPI transformations  
-- **Power BI** - Dashboard development (DAX, visuals, interactions)  
+- **Power BI** - Dashboard development (Power Query, Data Model, DAX, Visuals, Interactions)  
 - **MS Word / PowerPoint** - Documentation and Executive Summary  
 
 ---
@@ -262,11 +262,11 @@ A concise **management-level presentation** summarizing:
 
 
 **3. Customers:**
-- Improve the 27.86% retention rate and reduce the 28.6% churn (1,430 in 6 months) by focusing on high-churn segments 26 - 35 (482 customers) and 50+ (170 customers) through tailored reactivation offers.
+- Improve the 27.86% retention rate and reduce the 28.6% churn (1,430 in 6 months) by focusing on high-churn age groups 36 - 50 (462 customers) and 26 - 35 (341 customers) through tailored reactivation offers.
 - Boost lifetime value from top-spending segments: Female 36 - 50 ($5.23M), Male 36 - 50 ($5.16M), and Male 26 - 35 ($4.27M) with premium product bundles, early-bird offers, and loyalty perks.
-- Leverage online repeat buyers (2,058 customers, 83.94% repeat purchase rate) through loyalty points, early access sales, and subscription models.
-- Engage top spenders like Tracey Patterson ($1.44M) and Margaret Liu ($1.21M) with exclusive VIP programs to drive advocacy and repeat orders.
-- Target high-value states California ($5.08M), Texas ($3.57M), Florida ($2.99M) with geo-specific promotions while lifting lower-revenue states like Georgia ($1.20M) and North Carolina ($1.12M).
+- Leverage online repeat buyers (2,056 customers, 83.94% repeat purchase rate) through loyalty points, early access sales, and subscription models.
+- Engage top spenders like Tracey Patterson ($1.44M) and Margaret Liu ($1.15M) with exclusive VIP programs to drive advocacy and repeat orders.
+- Target high-value states California ($5.07M), Texas ($3.57M), Florida ($2.98M) with geo-specific promotions while lifting lower-revenue states like Washington ($0.8M) and Massachusetts ($0.7M).
 
 
 **4. Campaigns:**
