@@ -41,7 +41,7 @@
 ---
 
 ## 1. Project Overview  
-This analysis was conducted as part of a **business intelligence initiative** to evaluate the omnichannel retail behavior and performance of a fictional retail brand **OmniMart Pvt Ltd** over the period **March 2020 – March 2025**.  
+This analysis was conducted as part of a **business intelligence initiative** to evaluate the omnichannel retail behavior and performance of a fictional retail brand **OmniMart Pvt Ltd** over the period **March 2020 - March 2025**.  
 
 The project helps stakeholders (Sales, Marketing, Support, and Leadership teams) gain insights into:  
 - Revenue trends across regions & products
