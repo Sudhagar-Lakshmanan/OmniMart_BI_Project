@@ -274,22 +274,18 @@ A concise **management-level presentation** summarizing:
 
 ## Action Plan
 **Implement Targeted Revenue Strategies:**
-Focus on high-performing states like California, Texas, and Florida while running pilot campaigns in underperforming regions to close the gap.
-
+- Focus on high-performing states like California, Texas, and Florida while running pilot campaigns in underperforming regions to close the gap.
 
 **Optimize Product Mix:**
-Increase inventory for top sellers and phase out or repackage low-margin SKUs, using seasonal demand trends to guide planning.
-
+- Increase inventory for top sellers and phase out or repackage low-margin SKUs, using seasonal demand trends to guide planning.
 
 **Enhance Customer Segmentation:**
-Launch tailored marketing for high-value segments (e.g., Female 36-50, Male 26-35) while improving engagement for underrepresented demographics.
-
+- Launch tailored marketing for high-value segments (e.g., Female 36-50, Male 26-35) while improving engagement for underrepresented demographics.
 
 **Refine Campaign Investments:**
-Shift budget toward high-ROI channels such as Search Engine Marketing, Email, and In-Store Promotions, while testing new low-cost digital avenues.
+- Shift budget toward high-ROI channels such as Search Engine Marketing, Email, and In-Store Promotions, while testing new low-cost digital avenues.
 
-
-**Streamline Support Processes:**
+- **Streamline Support Processes:**
 Address high ticket volumes in categories like Shipping and Account Issues through automation, improved FAQs, and priority-based resolution workflows.
 
 ---
