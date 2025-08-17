@@ -166,12 +166,6 @@ The Power BI Data Model reflects fact-dimension schema optimized for reporting.
 
 ## Dashboard Outputs  
  
-For the **complete dashboard experience**, you can explore the following files in the [05_PowerBI_Dashboard](05_PowerBI_Dashboard) folder:  
-- `.pbix` file for interactive exploration in Power BI Desktop  
-- `.pdf` export of the dashboard report  
-- GIF animations (shown below) for quick visualization  
-- Data model image showcasing relationships
-
 For the **complete dashboard experience**, explore the resources available in the [05_PowerBI_Dashboard](05_PowerBI_Dashboard) folder:  
 - [PBIX File](05_PowerBI_Dashboard/i_PBIX_File/Omnichannel_Retail_Behavior_and_Performance_Analytics_Dashboard.pbix) - interactive exploration in Power BI Desktop  
 - [PDF Report](05_PowerBI_Dashboard/ii_PDF_File/OmniMart_Pvt_Ltd_Dashboard_Report.pdf) - static export of the full dashboard  
