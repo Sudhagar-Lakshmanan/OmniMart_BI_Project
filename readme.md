@@ -1,1 +1,258 @@
+# Omnichannel Retail Behaviour and Performance Analytics Dashboard  
+
+This repository presents a comprehensive analytics solution for a fictional retail company, **OmniMart Pvt Ltd**, designed to analyze customer behavior, campaign performance, and operational KPIs across multiple channels.  
+
+It includes business documentation, process flows, wireframes, SQL logic, Power BI dashboards, data dictionary, UAT artifacts, and executive summaries — all structured for clarity, traceability, and stakeholder usability.  
+
+---
+
+## Branding & Stakeholder Disclaimer  
+- All company names, stakeholder personas, and branding elements in this repository are **fictional** and used solely for illustrative purposes.  
+- The logo is **AI-generated** to simulate a realistic enterprise environment.  
+- No real individuals, organizations, or proprietary data are represented.  
+
+---
+
+## Table of Contents  
+- [Project Overview](#project-overview)  
+- [Business Objectives](#business-objectives)  
+- [Data Source and Processing](#data-source-and-processing)  
+- [Workflow and Approach](#workflow-and-approach)  
+- [Tools Used](#tools-used)  
+- [Data Architecture & Modeling](#data-architecture--modeling)  
+- [Preview](#preview)  
+  - [Process Flow Diagrams](#process-flow-diagrams)  
+  - [Wireframes](#wireframes)  
+- [Dashboard Outputs](#dashboard-outputs)  
+- [Key Insights](#key-insights)  
+- [Recommendations](#recommendations)  
+- [Action Plan](#action-plan)  
+- [User Acceptance Testing (UAT)](#user-acceptance-testing-uat)  
+- [Executive Summary](#executive-summary)  
+- [Repository Structure](#repository-structure)  
+- [Author](#author)  
+
+---
+
+## Project Overview  
+This project was conducted as part of a **business intelligence initiative** to evaluate the omnichannel retail behavior and performance of **OmniMart Pvt Ltd** over the period **March 2020 – March 2025**.  
+
+It enables stakeholders (Sales, Marketing, Support, and Leadership teams) to gain insights into:  
+- Revenue trends across regions & products  
+- Product performance and satisfaction ratings  
+- Customer behaviour, churn, and retention  
+- Campaign ROI & conversions  
+- Support tickets & SLA compliance  
+
+The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-based data transformations** and supporting business documentation (BRD, UAT, Executive Summary).  
+
+---
+
+## Business Objectives  
+
+**What OmniMart Aims to Achieve with the Power BI Dashboard**  
+
+- **Accelerate Decision-Making:** Deliver real-time, actionable insights to decision-makers across sales, marketing, and support functions.  
+- **Unify Omnichannel Performance Visibility:** Integrate sales, customer, campaign, and support data from offline and online channels into a single platform.  
+- **Enhance Customer Engagement & Retention:** Track churn, campaign responses, SLA metrics, and CSAT to improve satisfaction and loyalty.  
+- **Foster Accountability with Role-Based Reporting:** Provide tailored dashboards with access control for executives, managers, analysts, and support teams.  
+- **Support Operational Efficiency and Data Trust:** Replace manual reports with automated, validated dashboards powered by SQL and Power BI.  
+
+---
+
+## Data Source and Processing  
+
+**About the Source**  
+- Dataset sourced from **[Kaggle](https://www.kaggle.com/)** (fictional retail dataset).  
+- Covers **March 2020 – March 2025**.  
+- Includes:  
+  - `Customers.csv`  
+  - `Transactions.csv`  
+  - `Interactions.csv`  
+  - `Campaigns.csv`  
+  - `Customer Reviews.csv`  
+  - `Support Tickets.csv`  
+
+**Data Preparation & Cleaning**  
+- Verified file structures and column definitions in Excel.  
+- Checked quality: handled missing values (e.g., phone, discounts), assumed amounts in **USD**.  
+- Imported into MySQL for cleaning and transformation.  
+- Cleaning steps included:  
+  - Fixing missing values (dates, budget, ratings, product names).  
+  - Removing duplicates (customer_id, emails).  
+  - Validating formats (emails, phone numbers, names).  
+  - Standardizing categorical values (e.g., store location).  
+  - Recalculating and validating campaign KPIs.  
+
+---
+
+## Workflow and Approach  
+1. Requirement Gathering (sample request email).  
+2. BRD creation (objectives, KPIs, business case questions, user stories).  
+3. Process Mapping (current & future state in Lucidchart).  
+4. Wireframes (Balsamiq).  
+5. Business Question Framework (26 questions).  
+6. Database Setup, Data Insert, Cleaning & Preparation (MySQL).  
+7. SQL Development (26 queries aligned to KPIs).  
+8. Connection between MySQL and Power BI (Import Mode).  
+9. Power BI Dashboard Development (ETL, modeling, DAX measures, visuals, slicers).  
+10. UAT (plan, test cases, defect tracker, sign-off).  
+11. Delivery (final dashboard, supporting docs).  
+
+---
+
+## Tools Used  
+- **Excel** – Initial Profiling, UAT Documentation  
+- **Lucidchart** – Process Flow Diagrams  
+- **Balsamiq** – Wireframes  
+- **MySQL** – Data Storage, Cleaning, KPI Transformations  
+- **Power BI** – Dashboard Development (DAX, visuals, drill-through, tooltips)  
+- **MS Word / PowerPoint** – Documentation & Executive Summary  
+
+---
+
+## Data Architecture & Modeling  
+
+**SQL Entity Relationship Diagram (ERD):**  
+![ERD](04_SQL_Queries/i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)  
+
+**Power BI Data Model:**  
+![Data Model](05_PowerBI_Dashboard/iv_Data_Model/PowerBI_Data_Model.png)  
+
+---
+
+## Preview  
+
+### Process Flow Diagrams  
+
+| Current State | Future State |
+|---------------|--------------|
+| ![Current State](02_Process_Flow_Diagrams/1_Process_flow_Current_state.png) | ![Future State](02_Process_Flow_Diagrams/2_Process_flow_Future_state.png) |  
+
+---
+
+### Wireframes (Dashboard Design Phase)  
+
+| Summary Page | Overview Page | Revenue Page |
+|--------------|---------------|--------------|
+| ![Summary](03_Wireframes/1_Summary_page.png) | ![Overview](03_Wireframes/2_Overview_page.png) | ![Revenue](03_Wireframes/3_Revenue_page.png) |  
+
+| Products Page | Customers Page | Campaigns Page | Support Tickets Page |
+|---------------|----------------|----------------|----------------------|
+| ![Products](03_Wireframes/4_Products_page.png) | ![Customers](03_Wireframes/5_Customers_page.png) | ![Campaigns](03_Wireframes/6_Campaigns_page.png) | ![Support](03_Wireframes/7_Support_Tickets_page.png) |  
+
+---
+
+## Dashboard Outputs  
+
+### Dashboard Preview (GIF Animations)  
+
+| Summary Page | Overview Page | Revenue Page |
+|--------------|---------------|--------------|
+| ![Summary](05_PowerBI_Dashboard/iii_GIF_File/1_Summary_Page.gif) | ![Overview](05_PowerBI_Dashboard/iii_GIF_File/2_Overview_Page.gif) | ![Revenue](05_PowerBI_Dashboard/iii_GIF_File/3_Revenue_Page.gif) |  
+
+| Products Page | Customers Page | Campaigns Page | Support Tickets Page |
+|---------------|----------------|----------------|----------------------|
+| ![Products](05_PowerBI_Dashboard/iii_GIF_File/4_Products_Page.gif) | ![Customers](05_PowerBI_Dashboard/iii_GIF_File/5_Customers_Page.gif) | ![Campaigns](05_PowerBI_Dashboard/iii_GIF_File/6_Campaigns_Page.gif) | ![Support](05_PowerBI_Dashboard/iii_GIF_File/7_Support_Tickets_Page.gif) |  
+
+---
+
+## Key Insights  
+- Gross Revenue: **$27.79M** → Net Revenue: **$27.55M** after discounts.  
+- **Furniture** category leads with **$6.1M**.  
+- **Google Nest** tops in units sold (1,359); **Sheets** leads in quality (5.0★).  
+- **California** has the largest customer base (873 of 5,000).  
+- **Search Engine Marketing** delivers highest ROI ($162.64K).  
+- **Shipping issues** dominate support tickets (436), with avg. resolution **37.67 hrs** and CSAT **3.52**.  
+
+[Explore SQL, Power BI & Executive Summary outputs](#repository-structure).  
+
+---
+
+## Recommendations  
+
+### Revenue  
+- Prioritize high-revenue categories (Furniture, Smartphones, Laptops).  
+- Leverage festive months (Nov–Dec) with bundled offers and upselling.  
+- Focus on **online revenue ($13.98M)** via ads, personalization, and loyalty rewards.  
+- Promote **credit card payments** to boost AOV.  
+
+### Products  
+- Increase stock for bestsellers (20%+) before seasonal peaks.  
+- Promote **Smart Home Devices, Smartphones, Furniture** aggressively.  
+- Launch clearance campaigns for underperforming categories.  
+
+### Customers  
+- Reduce churn (28.6%) by targeting high-risk age groups (26–35, 50+).  
+- Maximize value from top spenders (Females 36–50, Males 26–35).  
+- Engage repeat buyers with loyalty programs and subscriptions.  
+
+### Campaigns  
+- Scale **SEM (32% ROI)** and **Email Marketing (16% ROI)**.  
+- Improve weak channels (TV, Radio, Online Display) via targeting & A/B testing.  
+- Time campaigns during peak hours (10–11 AM, 12–3 PM).  
+
+### Support  
+- Scale capacity for rising ticket volumes (3,000 by 2025).  
+- Improve 24h resolution rate (currently 28.39%).  
+- Prioritize automation for **Shipping & Account Issues**.  
+
+---
+
+## Action Plan  
+- **Revenue:** Drive growth via targeted campaigns and state-level offers.  
+- **Products:** Optimize inventory and rationalize low-performing SKUs.  
+- **Customers:** Segment campaigns for high-value and at-risk cohorts.  
+- **Campaigns:** Redirect spend to high-ROI channels and peak hours.  
+- **Support:** Implement triaging, FAQs, and automation to cut resolution time.  
+
+---
+
+## User Acceptance Testing (UAT)  
+Validating dashboard functionality and business expectations through:  
+- UAT Plan & Schedule  
+- Test Case Matrix & Coverage  
+- Defect Tracker  
+- Traceability Matrix  
+- Final Sign-off  
+
+[View UAT Workbook](07_User_Acceptance_Testing/UAT_Execution_Report.xlsx)  
+
+---
+
+## Executive Summary  
+A concise management presentation summarizing:  
+- Key findings & insights  
+- Recommendations & next steps  
+- Business impact  
+
+[Download Executive Summary (PDF)](08_Executive_Summary/Executive%20Summary%20Presentation.pdf)  
+
+---
+
+## Repository Structure  
+
+| Folder | Description |
+|--------|-------------|
+| [01_Business_Documents](01_Business_Documents/) | Business request email, BRD, business case questions, user stories, use cases. |
+| [02_Process_Flow_Diagrams](02_Process_Flow_Diagrams/) | Current vs. future state process flows. |
+| [03_Wireframes](03_Wireframes/) | Dashboard wireframes for all report pages. |
+| [04_SQL_Queries](04_SQL_Queries/) | SQL setup, cleaning, analysis queries, ERD, and exports. |
+| [05_PowerBI_Dashboard](05_PowerBI_Dashboard/) | PBIX file, PDF export, GIFs, and data model. |
+| [06_Data_Dictionary](06_Data_Dictionary/) | Table/column-level details and source reference. |
+| [07_User_Acceptance_Testing](07_User_Acceptance_Testing/) | UAT plan, test cases, defect tracker, and sign-off. |
+| [08_Executive_Summary](08_Executive_Summary/) | Final presentation (PPTX & PDF). |
+
+---
+
+## Author  
+
+**Sudhagar**  
+Business Intelligence Analyst | SQL | Power BI | Data Analytics  
+
+📧 [Email](mailto:your.email@example.com) | 💼 [LinkedIn](https://www.linkedin.com)  
+
+---
+
+⭐ If you found this project helpful, please consider giving the repository a **star**!  
 
