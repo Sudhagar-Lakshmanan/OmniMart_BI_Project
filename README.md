@@ -72,7 +72,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 ## Data Source and Processing
 
 **About the Source:**
-- The dataset was sourced from Kaggle website, a popular platform for hosting datasets. 
+- The dataset was sourced from **Kaggle website,** a popular platform for hosting datasets. 
 - Kaggle hosts a wide range of community-contributed datasets, making it a valuable resource for analysis projects.
 - This dataset contains fictional or sample retail data gathered from various sources within a retail business environment.
 
