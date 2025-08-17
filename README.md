@@ -92,9 +92,6 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 - Checked quality: minor missing values (e.g., phone, discounts), assumed all amounts in **USD**.
 - Imported datasets into MySQL for structured cleaning and transformation.
 
-**SQL ERD**  
-![ERD](04_SQL_Queries/i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)  
-
 **Data Cleaning:**
 - Fixed missing values (dates, budget, ratings, product names).
 - Removed duplicates (customer_id, emails).
@@ -132,12 +129,19 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## Data Model & ERD  
+## Data Architecture & Modeling
+
+**SQL Entity Relationship Diagram (ERD):**  
+![ERD](04_SQL_Queries/i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)  
 
 **Power BI Data Model**  
 ![Data Model](05_PowerBI_Dashboard/iv_Data_Model/PowerBI_Data_Model.png)  
 
-## Process Flow Diagrams  
+---
+
+## Preview
+
+### Process Flow Diagrams  
 
 | Current State | Future State |
 |---------------|--------------|
@@ -145,7 +149,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## Wireframes (Dashboard Design Phase)  
+### Wireframes (Dashboard Design Phase)  
 
 | Summary Page | Overview Page | Revenue Page |
 |--------------|---------------|--------------|
@@ -158,7 +162,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## Sample Dashboard Outputs  
+## Dashboard Outputs  
 
 ### Dashboard Preview (GIF Animations)  
 | Summary Page | Revenue Page | Customers Page |
@@ -167,6 +171,30 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 
 ---
+
+## Key Insights
+
+- Gross Revenue before discounts was $27.79M, with total discounts reducing it by $0.24M, resulting in a net revenue of $27.55M
+
+- Net revenue generated is $27.55M, with 'Furniture' category contributing the highest share of $6.1M
+
+- 'Google Nest' is the best-selling item with 1,359 units sold, while 'Sheets' leads in quality with an average rating of 5.0
+
+- 'California' state leads with the highest customer base of 873 individuals out of 5,000 total customers
+
+- 'Search Engine Marketing' campaigns delivered the highest ROI of $162.64k, with top performance seen in the 'Home Improvement' audience segment
+
+- 'Shipping' was the most reported issue type, with 436 tickets raised, 379 of them were resolved, averaging 37.67 hours to close and a customer satisfaction score of 3.52
+
+
+Explore entire analysis findings in below folders:
+- [04_SQL_Queries](../04_SQL_Queries/README.md)
+- [05_PowerBI_Dashboard](../05_PowerBI_Dashboard/README.md)
+- [08_Executive_Summary/](../08_Executive_Summary/Executive_Summary_Presentation.pdf)
+
+
+
+
 
 
 ## ✅ User Acceptance Testing (UAT)  
