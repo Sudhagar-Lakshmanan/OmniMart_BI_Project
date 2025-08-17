@@ -16,28 +16,29 @@
 
 ---
 
-## Table of Contents  
-- [Project Overview](#project-overview)  
-- [Business Objectives](#business-objectives)  
-- [Data Source and Processing](#data-source-and-processing)  
-- [Workflow and Approach](#workflow-and-approach)  
-- [Tools Used](#tools-used)  
-- [Data Architecture & Modeling](#data-architecture--modeling)  
-- [Preview](#preview)  
-  - [Process Flow Diagrams](#process-flow-diagrams)  
-  - [Wireframes](#wireframes-dashboard-design-phase)
-- [Dashboard Outputs](#dashboard-outputs)  
-- [Key Insights](#key-insights)  
-- [User Acceptance Testing](#user-acceptance-testing-uat)  
-- [Executive Summary](#executive-summary)  
-- [Recommendations](#recommendations)  
-- [Action Plan](#action-plan)  
-- [Repository Structure](#repository-structure)  
-- [Author](#author)
+1. [Project Overview](#1-project-overview)  
+2. [Business Objectives](#2-business-objectives)  
+3. [Data Source and Processing](#3-data-source-and-processing)  
+4. [Workflow and Approach](#4-workflow-and-approach)  
+5. [Tools Used](#5-tools-used)  
+6. [Data Architecture & Modeling](#6-data-architecture--modeling)  
+7. [Preview](#7-preview)  
+   7.1 [Process Flow Diagrams](#71-process-flow-diagrams)  
+   7.2 [Wireframes (Dashboard Design Phase)](#72-wireframes-dashboard-design-phase)  
+8. [Dashboard Outputs](#8-dashboard-outputs)  
+   8.1 [Dashboard Preview (GIF Animations)](#81-dashboard-preview-gif-animations)  
+9. [Key Insights](#9-key-insights)  
+10. [User Acceptance Testing (UAT)](#10-user-acceptance-testing-uat)  
+11. [Executive Summary](#11-executive-summary)  
+12. [Recommendations](#12-recommendations)  
+13. [Action Plan](#13-action-plan)  
+14. [Repository Structure](#14-repository-structure)  
+15. [Author](#15-author)
+
 
 ---
 
-## Project Overview  
+## 1. Project Overview  
 This analysis was conducted as part of a **business intelligence initiative** to evaluate the omnichannel retail behavior and performance of a fictional retail brand **OmniMart Pvt Ltd** over the period **March 2020 – March 2025**.  
 
 The project helps stakeholders (Sales, Marketing, Support, and Leadership teams) gain insights into:  
@@ -51,9 +52,9 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## Business Objectives
+## 2. Business Objectives
 
-**What OmniMart Aims to Achieve with the Power BI Dashboard ?**
+#### What OmniMart Aims to Achieve with the Power BI Dashboard
 
 **Accelerate Decision-Making:**
 - Deliver real-time, actionable insights to decision-makers across sales, marketing and support functions. 
@@ -72,7 +73,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## Data Source and Processing
+## 3. Data Source and Processing
 **About the Source:**
 - The dataset was sourced from **Kaggle website,** a popular platform for hosting datasets. 
 - Kaggle hosts a wide range of community-contributed datasets, making it a valuable resource for analysis projects.
@@ -105,7 +106,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## Workflow and Approach  
+## 4. Workflow and Approach  
 1. Requirement Gathering (sample request email).  
 2. BRD creation (objectives, KPIs, business case questions, user stories, use cases).  
 3. Process Mapping (current & future state in Lucidchart).  
@@ -120,7 +121,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## Tools Used  
+## 5. Tools Used  
 - **Excel** - Initial Profiling, UAT Documentation 
 - **Lucidchart** - Process Flow Diagrams  
 - **Balsamiq** - Wireframes  
@@ -130,7 +131,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ---
 
-## Data Architecture & Modeling
+## 6. Data Architecture & Modeling
 
 ### SQL Entity Relationship Diagram (ERD)
 The ERD below shows relationships across customers, transactions, campaigns, and tickets.
@@ -142,16 +143,16 @@ The Power BI Data Model reflects fact-dimension schema optimized for reporting.
 
 ---
 
-## Preview
+## 7. Preview
 
-### Process Flow Diagrams  
+### 7.1 Process Flow Diagrams  
 
 | Current State | Future State |
 |---------------|--------------|
 | ![Current State](02_Process_Flow_Diagrams/1_Process_flow_Current_state.png) | ![Future State](02_Process_Flow_Diagrams/2_Process_flow_Future_state.png) |
 
 
-### Wireframes (Dashboard Design Phase)  
+### 7.2 Wireframes (Dashboard Design Phase)  
 
 | Summary Page | Overview Page | Revenue Page |
 |--------------|---------------|--------------|
@@ -164,7 +165,7 @@ The Power BI Data Model reflects fact-dimension schema optimized for reporting.
 
 ---
 
-## Dashboard Outputs  
+## 8. Dashboard Outputs  
  
 For the **complete dashboard experience**, explore the resources available in the [05_PowerBI_Dashboard](05_PowerBI_Dashboard) folder:  
 - [PBIX File](05_PowerBI_Dashboard/i_PBIX_File/Omnichannel_Retail_Behavior_and_Performance_Analytics_Dashboard.pbix) - interactive exploration in Power BI Desktop  
@@ -173,7 +174,7 @@ For the **complete dashboard experience**, explore the resources available in th
 - [Data Model](05_PowerBI_Dashboard/iv_Data_Model/PowerBI_Data_Model.png) - visualization of relationships and schema  
 
   
-### Dashboard Preview (GIF Animations)  
+### 8.1 Dashboard Preview (GIF Animations)  
 The following GIFs provide a quick preview of the interactive Power BI dashboard pages. 
 | Summary Page | Overview Page | Revenue Page |
 |--------------|--------------|----------------|
@@ -186,7 +187,7 @@ The following GIFs provide a quick preview of the interactive Power BI dashboard
 
 ---
 
-## Key Insights
+## 9. Key Insights
 - Gross Revenue before discounts was $27.79M, with total discounts reducing it by $0.24M, resulting in a net revenue of $27.55M
 
 - Net revenue generated is $27.55M, with 'Furniture' category contributing the highest share of $6.1M
@@ -208,7 +209,7 @@ The following GIFs provide a quick preview of the interactive Power BI dashboard
 
 ---
 
-## User Acceptance Testing (UAT)  
+## 10. User Acceptance Testing (UAT)  
 
 The UAT was designed to validate the dashboard’s functional requirements, business expectations, and stakeholder needs.  
 It includes:  
@@ -224,7 +225,7 @@ It includes:
 ---
 
 
-## Executive Summary  
+## 11. Executive Summary  
 
 A concise **management-level presentation** summarizing:  
 - Key findings & insights  
@@ -236,7 +237,7 @@ A concise **management-level presentation** summarizing:
 ---
 
 
-## Recommendations
+## 12. Recommendations
 **1. Revenue:**
 - Focus marketing efforts on high-revenue categories like Furniture ($6.13M), Smartphones ($4.94M) and Laptops ($3.95M).
 - Capitalize on Nov ($3.71M) and Dec ($3.78M) surges with festive promotions, bundled deals and upselling.
@@ -285,7 +286,7 @@ A concise **management-level presentation** summarizing:
 
 
 
-## Action Plan
+## 13. Action Plan
 **Implement Targeted Revenue Strategies:**
 - Focus on high-performing states like California, Texas, and Florida while running pilot campaigns in underperforming regions to close the gap.
 
@@ -304,7 +305,7 @@ A concise **management-level presentation** summarizing:
 ---
 
 
-## Repository Structure  
+## 14. Repository Structure  
 
 | Folder | Description |
 |--------|-------------|
@@ -321,7 +322,7 @@ A concise **management-level presentation** summarizing:
 ---
 
 
-## Author  
+## 15. Author  
 
 **Sudhagar**  
 Business Intelligence Analyst | SQL | Power BI | Data Analytics  
