@@ -150,7 +150,6 @@ The Power BI Data Model reflects fact-dimension schema optimized for reporting.
 |---------------|--------------|
 | ![Current State](02_Process_Flow_Diagrams/1_Process_flow_Current_state.png) | ![Future State](02_Process_Flow_Diagrams/2_Process_flow_Future_state.png) |
 
----
 
 ### Wireframes (Dashboard Design Phase)  
 
@@ -335,6 +334,4 @@ Business Intelligence Analyst | SQL | Power BI | Data Analytics
 
 📧 [Email](mailto:your.email@example.com) | 💼 [LinkedIn](https://www.linkedin.com)  
 
----
 
-⭐ If you found this project helpful, please consider giving the repository a **star**!  
