@@ -1,7 +1,12 @@
 # Omnichannel Retail Behaviour and Performance Analytics Dashboard  
-This repository showcases a comprehensive analytics solution for a fictional retail company, **OmniMart Pvt Ltd**, designed to analyze customer behavior, campaign performance, and operational KPIs across multiple channels.
+- This repository delivers a **comprehensive, end-to-end analytics solution** for a fictional retail company, **OmniMart Pvt Ltd**, designed to evaluate customer behavior, campaign effectiveness, and operational KPIs across multiple channels.  
 
-It includes business documentation, process flows, wireframes, SQL logic, Power BI dashboards, data dictionary, UAT artifacts, and executive summaries - all structured for clarity, traceability, and stakeholder usability.
+- The project spans the entire business intelligence lifecycle, from requirement gathering and process mapping to data modeling, dashboard development, testing, and executive reporting.  
+
+- It brings together business documentation, process flows, wireframes, SQL transformations, Power BI dashboards, data dictionary, UAT artifacts, and executive summaries — ensuring a structured, traceable, and stakeholder-ready solution.  
+
+- Together, these components demonstrate how data can be transformed into actionable insights that support decision-making, improve customer engagement, and optimize business performance.  
+
 
 ---
 
