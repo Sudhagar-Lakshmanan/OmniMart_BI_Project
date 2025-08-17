@@ -327,7 +327,7 @@ A concise **management-level presentation** summarizing:
 
 ## 15. Author  
 
-**Sudhagar Lakshmanan**  
+### Sudhagar Lakshmanan
 
 Business Intelligence Analyst | SQL | Power BI | MS Office (Excel, Word, PPT) | Balsamiq | Lucidchart  
 
