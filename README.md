@@ -329,7 +329,7 @@ A concise **management-level presentation** summarizing:
 
 ### Sudhagar Lakshmanan
 
-Business Intelligence Analyst | SQL | Power BI | MS Office (Excel, Word, PPT) | JIRA | Balsamiq | Lucidchart  
+Business Intelligence Analyst | SQL (MySQL, SQL Server) | Power BI | MS Office (Excel, Word, PPT) | JIRA | Balsamiq | Lucidchart  
 
 TATA Consultancy Services | Sep 2018 - Sep 2024 | Chennai, India
 
