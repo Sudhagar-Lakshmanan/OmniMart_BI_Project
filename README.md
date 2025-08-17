@@ -135,10 +135,12 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ### SQL Entity Relationship Diagram (ERD)
 The ERD below shows relationships across customers, transactions, campaigns, and tickets.
+
 ![ERD](04_SQL_Queries/i_Setup_Scripts/3_ERD_Retail_Customer_Insights.png)  
 
 ### Power BI Data Model
 The Power BI Data Model reflects fact-dimension schema optimized for reporting.
+
 ![Data Model](05_PowerBI_Dashboard/iv_Data_Model/PowerBI_Data_Model.png)  
 
 ---
@@ -176,6 +178,7 @@ For the **complete dashboard experience**, explore the resources available in th
   
 ### 8.1 Dashboard Preview (GIF Animations)  
 The following GIFs provide a quick preview of the interactive Power BI dashboard pages. 
+
 | Summary Page | Overview Page | Revenue Page |
 |--------------|--------------|----------------|
 | ![Summary](05_PowerBI_Dashboard/iii_GIF_File/1_Summary_Page.gif) | ![Overview](05_PowerBI_Dashboard/iii_GIF_File/2_Overview_Page.gif) | ![Revenue](05_PowerBI_Dashboard/iii_GIF_File/3_Revenue_Page.gif) |
@@ -319,14 +322,16 @@ A concise **management-level presentation** summarizing:
 | [07_User_Acceptance_Testing](07_User_Acceptance_Testing) | UAT workbook with plan, test cases, defect tracker, traceability, and sign-off. |
 | [08_Executive_Summary](08_Executive_Summary) | Final stakeholder presentation (PPTX & PDF). |
 
----
 
+---
 
 ## 15. Author  
 
-**Sudhagar**  
-Business Intelligence Analyst | SQL | Power BI | Data Analytics  
+**Sudhagar Lakshmanan**  
 
-📧 [Email](mailto:your.email@example.com) | 💼 [LinkedIn](https://www.linkedin.com)  
+Business Intelligence Analyst | SQL | Power BI | MS Office (Excel, Word, PPT) | Balsamiq | Lucidchart  
 
+**TATA Consultancy Services** | Sep 2018 – Sep 2024  
+
+*Passionate about turning data into decisions. Open to data-focused roles that encourage continuous learning, enable impactful contributions, and support professional growth.*  
 
