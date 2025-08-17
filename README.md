@@ -54,7 +54,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 
 ## 2. Business Objectives
 
-#### What OmniMart Aims to Achieve with the Power BI Dashboard
+### What OmniMart Aims to Achieve with the Power BI Dashboard
 
 **Accelerate Decision-Making:**
 - Deliver real-time, actionable insights to decision-makers across sales, marketing and support functions. 
