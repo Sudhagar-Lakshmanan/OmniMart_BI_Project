@@ -16,6 +16,8 @@
 
 ---
 
+## Table of Contents
+
 1. [Project Overview](#1-project-overview)  
 2. [Business Objectives](#2-business-objectives)  
 3. [Data Source and Processing](#3-data-source-and-processing)  
