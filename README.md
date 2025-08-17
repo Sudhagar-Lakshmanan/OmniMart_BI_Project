@@ -12,7 +12,7 @@
 
 ## Branding & Stakeholder Disclaimer!
 - All company names, stakeholder personas, and branding elements in this repository are **fictional** and used solely for illustrative purposes.
-- The logo is **AI-generated** to simulate a realistic enterprise environment.
+- The logo is **AI-generated** to simulate a realistic enterprise environment. (Click here to view the [Logo](../00_Assets/OmniMart_Logo.png))
 - No real individuals, organizations, or proprietary data are represented.
 
 ---
