@@ -25,7 +25,7 @@
 - [Data Architecture & Modeling](#data-architecture--modeling)  
 - [Preview](#preview)  
   - [Process Flow Diagrams](#process-flow-diagrams)  
-  - [Wireframes](##wireframes-dashboard-design-phase)
+  - [Wireframes](#wireframes-dashboard-design-phase)
 - [Dashboard Outputs](#dashboard-outputs)  
 - [Key Insights](#key-insights)  
 - [User Acceptance Testing](#user-acceptance-testing-uat)  
