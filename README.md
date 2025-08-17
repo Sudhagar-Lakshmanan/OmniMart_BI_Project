@@ -3,10 +3,9 @@
 
 - The project spans the entire business intelligence lifecycle, from requirement gathering and process mapping to data modeling, dashboard development, testing, and executive reporting.  
 
-- It brings together business documentation, process flows, wireframes, SQL transformations, Power BI dashboards, data dictionary, UAT artifacts, and executive summaries ensuring a structured, traceable, and stakeholder-ready solution.  
+- It brings together [business documentation](01_Business_Documents/), [process flows](02_Process_Flow_Diagrams/), [wireframes](03_Wireframes/), [SQL transformations](04_SQL_Queries/), [Power BI dashboards](05_PowerBI_Dashboard/), [data dictionary](06_Data_Dictionary/), [UAT artifacts](07_User_Acceptance_Testing/), and [executive summaries](08_Executive_Summary/) ensuring a structured, traceable, and stakeholder-ready solution.  
 
 - Together, these components demonstrate how data can be transformed into actionable insights that support decision-making, improve customer engagement, and optimize business performance.  
-
 
 ---
 
@@ -26,13 +25,15 @@
 - [Data Architecture & Modeling](#data-architecture--modeling)  
 - [Preview](#preview)  
   - [Process Flow Diagrams](#process-flow-diagrams)  
-  - [Wireframes](#wireframes)  
+  - [Wireframes](#wireframes)
+- [Dashboard Outputs](#dashboard-outputs)  
 - [Key Insights](#key-insights)  
+- [User Acceptance Testing](#user-acceptance-testing-uat)  
+- [Executive Summary](#executive-summary)  
 - [Recommendations](#recommendations)  
 - [Action Plan](#action-plan)  
-- [Repository Structure](#repository-structure)    
-- [Documentation](#documentation)  
-- [Next Steps](#next-steps)  
+- [Repository Structure](#repository-structure)  
+- [Author](#author)
 
 ---
 
@@ -115,7 +116,7 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 8. Create connection between MySQL and Power BI through IMPORT MODE
 9. Power BI Dashboard Development (ETL, modeling, DAX measures, slicers, drill-through, custom tooltip pages).  
 10. UAT (plan, test cases, defect tracker, sign-off).  
-11. Delivery (final dashboard, supporting docs).  
+11. Delivery (final dashboard, supporting docs, executive summary).  
 
 ---
 
@@ -192,10 +193,10 @@ The Power BI Data Model reflects fact-dimension schema optimized for reporting.
 - 'Shipping' was the most reported issue type, with 436 tickets raised, 379 of them were resolved, averaging 37.67 hours to close and a customer satisfaction score of 3.52
 
 
-Explore entire analysis findings in below folders:
-- [04_SQL_Queries](../04_SQL_Queries/README.md)
-- [05_PowerBI_Dashboard](../05_PowerBI_Dashboard/README.md)
-- [08_Executive_Summary](../08_Executive_Summary/Executive_Summary_Presentation.pdf)
+**Explore entire analysis findings in below folders:**
+- [04_SQL_Queries](04_SQL_Queries)
+- [05_PowerBI_Dashboard](05_PowerBI_Dashboard)
+- [08_Executive_Summary](08_Executive_Summary/Executive_Summary_Presentation.pdf)
 
 
 ---
@@ -220,10 +221,10 @@ It includes:
 
 A concise **management-level presentation** summarizing:  
 - Key findings & insights  
-- Recommendations & next steps  
+- Recommendations & Action plans
 - Business impact  
 
-[Download Executive Summary (PDF)](08_Executive_Summary/Executive%20Summary%20Presentation.pdf)  
+[View Executive Summary (PDF)](08_Executive_Summary/Executive_Summary_Presentation.pdf)  
 
 ---
 
@@ -300,14 +301,15 @@ Address high ticket volumes in categories like Shipping and Account Issues throu
 
 | Folder | Description |
 |--------|-------------|
-| [01_Business_Documents](01_Business_Documents/) | Business request email, BRD, business case questions, user stories, and use cases. |
-| [02_Process_Flow_Diagrams](02_Process_Flow_Diagrams/) | Current vs. future state process flow diagrams. |
-| [03_Wireframes](03_Wireframes/) | Dashboard wireframes for all report pages. |
-| [04_SQL_Queries](04_SQL_Queries/) | SQL scripts for table setup, cleaning, analysis queries, ERD, and output exports. |
-| [05_PowerBI_Dashboard](05_PowerBI_Dashboard/) | PBIX file, PDF export, animated GIFs of pages, and Power BI data model. |
-| [06_Data_Dictionary](06_Data_Dictionary/) | Data dictionary (`.md`) with table/column-level details and source reference. |
-| [07_User_Acceptance_Testing](07_User_Acceptance_Testing/) | UAT workbook with plan, test cases, defect tracker, traceability, and sign-off. |
-| [08_Executive_Summary](08_Executive_Summary/) | Final stakeholder presentation (PPTX & PDF). |
+| [00_Assets](00_Assets) | Logos, branding materials, reference assets. |
+| [01_Business_Documents](01_Business_Documents) | Business request email, BRD, business case questions, user stories, and use cases. |
+| [02_Process_Flow_Diagrams](02_Process_Flow_Diagrams) | Current vs. future state process flow diagrams. |
+| [03_Wireframes](03_Wireframes) | Dashboard wireframes for all report pages. |
+| [04_SQL_Queries](04_SQL_Queries) | SQL scripts for table setup, cleaning, analysis queries, ERD, and output exports. |
+| [05_PowerBI_Dashboard](05_PowerBI_Dashboard) | PBIX file, PDF export, animated GIFs of pages, and Power BI data model. |
+| [06_Data_Dictionary](06_Data_Dictionary) | Data dictionary (`.md`) with table/column-level details and source reference. |
+| [07_User_Acceptance_Testing](07_User_Acceptance_Testing) | UAT workbook with plan, test cases, defect tracker, traceability, and sign-off. |
+| [08_Executive_Summary](08_Executive_Summary) | Final stakeholder presentation (PPTX & PDF). |
 
 ---
 
