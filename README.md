@@ -3,7 +3,7 @@
 
 - The project spans the entire business intelligence lifecycle, from requirement gathering and process mapping to data modeling, dashboard development, testing, and executive reporting.  
 
-- It brings together business documentation, process flows, wireframes, SQL transformations, Power BI dashboards, data dictionary, UAT artifacts, and executive summaries — ensuring a structured, traceable, and stakeholder-ready solution.  
+- It brings together business documentation, process flows, wireframes, SQL transformations, Power BI dashboards, data dictionary, UAT artifacts, and executive summaries ensuring a structured, traceable, and stakeholder-ready solution.  
 
 - Together, these components demonstrate how data can be transformed into actionable insights that support decision-making, improve customer engagement, and optimize business performance.  
 
