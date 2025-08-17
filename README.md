@@ -298,8 +298,8 @@ A concise **management-level presentation** summarizing:
 **Refine Campaign Investments:**
 - Shift budget toward high-ROI channels such as Search Engine Marketing, Email, and In-Store Promotions, while testing new low-cost digital avenues.
 
-- **Streamline Support Processes:**
-Address high ticket volumes in categories like Shipping and Account Issues through automation, improved FAQs, and priority-based resolution workflows.
+**Streamline Support Processes:**
+- Address high ticket volumes in categories like Shipping and Account Issues through automation, improved FAQs, and priority-based resolution workflows.
 
 ---
 
@@ -308,7 +308,7 @@ Address high ticket volumes in categories like Shipping and Account Issues throu
 
 | Folder | Description |
 |--------|-------------|
-| [00_Assets](00_Assets) | Logos, branding materials, reference assets. |
+| [00_Assets](00_Assets) | Logo, banner. |
 | [01_Business_Documents](01_Business_Documents) | Business request email, BRD, business case questions, user stories, and use cases. |
 | [02_Process_Flow_Diagrams](02_Process_Flow_Diagrams) | Current vs. future state process flow diagrams. |
 | [03_Wireframes](03_Wireframes) | Dashboard wireframes for all report pages. |
