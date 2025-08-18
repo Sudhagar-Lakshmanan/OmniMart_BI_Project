@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="00_Assets/OmniMart_Logo.png" alt="OmniMart Logo" width="200"/>
+  <img src="00_Assets/OmniMart_Logo.png" alt="OmniMart Logo" width="150"/>
 </p>
 
 
