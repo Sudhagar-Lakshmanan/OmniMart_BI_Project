@@ -1,4 +1,6 @@
-![OmniMart Logo](00_Assets/OmniMart_Logo.png)
+<p align="center">
+  <img src="00_Assets/OmniMart_Logo.png" alt="OmniMart Logo" width="200"/>
+</p>
 
 
 # Omnichannel Retail Behaviour and Performance Analytics Dashboard  
