@@ -342,6 +342,8 @@ A concise **management-level presentation** summarizing:
 
 ### Sudhagar Lakshmanan
 
+Email: [sudhagar.techs@gmail.com](mailto:sudhagar.techs@gmail.com)  
+
 Business Intelligence Analyst | SQL (MySQL, SQL Server) | Power BI | MS Office (Excel, Word, PPT) | JIRA | Balsamiq | Lucidchart  
 
 TATA Consultancy Services | Sep 2018 - Sep 2024 | Chennai, India
