@@ -12,14 +12,9 @@
 
 - Together, these components demonstrate how data can be transformed into actionable insights that support decision-making, improve customer engagement, and optimize business performance.  
 
----
-
-## Branding & Stakeholder Disclaimer !
-- All company names, stakeholder personas, and branding elements in this project are **fictional** and used solely for illustrative purposes.
-- The logo is **AI-generated** to simulate a realistic enterprise environment. [(Click here to view the Logo)](00_Assets/OmniMart_Logo.png)
-- No real individuals, organizations, or proprietary data are represented.
 
 ---
+
 
 ## Table of Contents
 
@@ -29,7 +24,7 @@
 4. [Workflow and Approach](#4-workflow-and-approach)  
 5. [Tools Used](#5-tools-used)  
 6. [Data Architecture & Modeling](#6-data-architecture--modeling)  
-7. [Preview](#7-preview)  
+7. [Design Phase Outputs](#7-design-phase-outputs)  
    7.1 [Process Flow Diagrams](#71-process-flow-diagrams)  
    7.2 [Wireframes (Dashboard Design Phase)](#72-wireframes-dashboard-design-phase)  
 8. [Dashboard Outputs](#8-dashboard-outputs)  
@@ -44,6 +39,17 @@
 
 
 ---
+
+
+## Branding & Stakeholder Disclaimer !
+- All company names, stakeholder personas, and branding elements in this project are **fictional** and used solely for illustrative purposes.
+- The logo is **AI-generated** to simulate a realistic enterprise environment. [(Click here to view the Logo)](00_Assets/OmniMart_Logo.png)
+- No real individuals, organizations, or proprietary data are represented.
+
+
+---
+
+
 
 ## 1. Project Overview  
 This analysis was conducted as part of a **business intelligence initiative** to evaluate the omnichannel retail behavior and performance of a fictional retail brand **OmniMart Pvt Ltd** over the period **March 2020 - March 2025**.  
@@ -152,7 +158,7 @@ The Power BI Data Model reflects fact-dimension schema optimized for reporting.
 
 ---
 
-## 7. Preview
+## 7. Design Phase Outputs
 
 ### 7.1 Process Flow Diagrams  
 
