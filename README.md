@@ -2,6 +2,11 @@
   <img src="00_Assets/OmniMart_Logo.png" alt="OmniMart Logo" width="150"/>
 </p>
 
+## Tech Stack  
+![SQL](https://img.shields.io/badge/SQL-Server-blue)  
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow)  
+![Excel](https://img.shields.io/badge/MS%20Excel-Data%20Analysis-green)  
+
 
 # Omnichannel Retail Behaviour and Performance Analytics Dashboard  
 - This repository delivers a **comprehensive, end-to-end analytics solution** for a fictional retail company, **"OmniMart Pvt Ltd"**, designed to evaluate customer behavior, campaign effectiveness, and operational KPIs across multiple channels.  
