@@ -89,7 +89,6 @@ The outcome is a fully documented **Power BI dashboard**, complemented by **SQL-
 ## 3. Data Source and Processing
 **About the Source:**
 - The dataset was sourced from **Kaggle website,** a popular platform for hosting datasets. 
-- Kaggle hosts a wide range of community-contributed datasets, making it a valuable resource for analysis projects.
 - Though based on a Kaggle dataset, all transformations, cleaning rules, and KPIs were independently defined for OmniMart’s fictional scenario.
 
 **Description of the Dataset:**
@@ -344,7 +343,7 @@ A concise **management-level presentation** summarizing:
 
 Email: [sudhagar.techs@gmail.com](mailto:sudhagar.techs@gmail.com)  
 
-Business Intelligence Analyst | Python (Pandas, Numpy, Matplotllib, Seaborn, Scikit-learn) | MySQL | Power BI | MS Office (Excel, Word, PPT) | JIRA | Balsamiq | Lucidchart  
+Business Intelligence Analyst 
 
 TATA Consultancy Services | Jul 2018 - Sep 2024 | Chennai, India
 
