@@ -344,9 +344,7 @@ A concise **management-level presentation** summarizing:
 
 Email: [sudhagar.techs@gmail.com](mailto:sudhagar.techs@gmail.com)  
 
-Business Intelligence Analyst | SQL (MySQL, SQL Server) | Power BI | MS Office (Excel, Word, PPT) | JIRA | Balsamiq | Lucidchart  
+Business Intelligence Analyst | Python (Pandas, Numpy, Matplotllib, Seaborn, Scikit-learn) | MySQL | Power BI | MS Office (Excel, Word, PPT) | JIRA | Balsamiq | Lucidchart  
 
 TATA Consultancy Services | Jul 2018 - Sep 2024 | Chennai, India
-
-*"Passionate about turning data into decisions. Open to data-focused roles that encourage continuous learning, enable impactful contributions, and support professional growth"*  
 
