@@ -343,7 +343,7 @@ A concise **management-level presentation** summarizing:
 
 Email: [sudhagar.techs@gmail.com](mailto:sudhagar.techs@gmail.com)  
 
-Business Intelligence Analyst 
+Business Intelligence Engineer 
 
 TATA Consultancy Services | Jul 2018 - Sep 2024 | Chennai, India
 
